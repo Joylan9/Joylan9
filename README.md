@@ -200,20 +200,6 @@ Currently exploring the intersection of **AI and modern web dev**.
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-<!-- SPOTIFY -->
-
-<h2>🎵 Spotify Now Playing</h2>
-
-<p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5qe7f6qjmqx6hcxqpjxjhwmiq&cover_image=true&theme=default&show_offline=false&background_color=20232a&interchange=false&bar_color=F75C7E" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 <!-- DEV QUOTE -->
 
 <h2>💡 Random Dev Quote</h2>
