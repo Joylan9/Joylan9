@@ -35,10 +35,6 @@ Currently exploring the intersection of **AI and modern web dev**.
     <td valign="top" width="60%">
       <ul>
         <li>🔭 Currently working on: <b>AI + Full Stack projects</b></li>
-        <li>🌱 Currently learning: <b>TypeScript, System Design, AI/LLM APIs</b></li>
-        <li>👯 Looking to collaborate on: <b>Open Source & SaaS projects</b></li>
-        <li>💬 Ask me about: <b>React, Node.js, REST APIs, UI/UX</b></li>
-        <li>⚡ Fun fact: <b>I debug with console.log and I'm not ashamed 😄</b></li>
       </ul>
     </td>
     <td valign="top" width="40%">
