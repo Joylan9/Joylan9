@@ -106,7 +106,7 @@ Currently exploring the intersection of **AI and modern web dev**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joylan9&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joylan9&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -223,11 +223,11 @@ Currently exploring the intersection of **AI and modern web dev**.
 <h2>🔝 Top Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/Joylan9/TraceAI">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=TraceAI&theme=radical&hide_border=true" alt="TraceAI" />
+  <a href="https://github.com/Joylan9/VectorShift_Company">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=VectorShift_Company&theme=radical&hide_border=true" alt="VectorShift_Company" />
   </a>
-  <a href="https://github.com/Joylan9/Joylan9">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=Joylan9&theme=radical&hide_border=true" alt="Profile Repo" />
+  <a href="https://github.com/Joylan9/VeriNews">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=VeriNews&theme=radical&hide_border=true" alt="VeriNews" />
   </a>
 </p>
 
