@@ -136,8 +136,6 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 <!-- SOCIALS SECTION -->
 
 <h2>🌐 Connect With Me</h2>
