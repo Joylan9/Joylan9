@@ -133,36 +133,8 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<!-- CURRENT PROJECTS SECTION -->
 
-<h2>🚀 What I'm Building</h2>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🤖 <b>TraceAI</b></td>
-      <td>Enterprise AI Agent Operations Platform</td>
-      <td>Python, FastAPI, React, MongoDB</td>
-    </tr>
-    <tr>
-      <td>🌐 <b>Portfolio v2</b></td>
-      <td>Personal portfolio with 3D animations</td>
-      <td>React, Three.js, Tailwind</td>
-    </tr>
-    <tr>
-      <td>⚡ <b>DevTools CLI</b></td>
-      <td>Developer productivity CLI toolkit</td>
-      <td>Node.js, TypeScript</td>
-    </tr>
-  </tbody>
-</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
