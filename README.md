@@ -152,7 +152,7 @@ Currently exploring the intersection of **AI and modern web dev**.
   <a href="https://instagram.com/joylan_7">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="www.linkedin.com/in/joylan-dsouza-31b056263">
+  <a href="https://linkedin.com/in/joylan-dsouza">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://pinterest.com/joylan_7">
@@ -188,9 +188,30 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<!-- TOP CONTRIBUTED REPO -->
+<!-- EXPLORE MY REPOS -->
 
-<h2>🔝 Top Repositories</h2>
+<h2>🔝 Explore My Code</h2>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=550&height=50&lines=%F0%9F%94%AE+Curious+about+what+I+build%3F;%E2%9C%A8+Click+below+to+unlock+my+repos!" alt="Typing SVG" />
+  </a>
+</p>
+
+<div align="center">
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/%20%20%F0%9F%9A%80%20CLICK%20TO%20EXPLORE%20MY%20REPOSITORIES%20%F0%9F%9A%80%20%20-F75C7E?style=for-the-badge" alt="Explore Repos"/>
+</summary>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="70%"/>
+</p>
+
+<h3 align="center">⭐ Featured Projects</h3>
 
 <p align="center">
   <a href="https://github.com/Joylan9/VectorShift_Company">
@@ -200,6 +221,40 @@ Currently exploring the intersection of **AI and modern web dev**.
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=VeriNews&theme=radical&hide_border=true" alt="VeriNews" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Joylan9/SoVir-Training-Website">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=SoVir-Training-Website&theme=radical&hide_border=true" alt="SoVir-Training-Website" />
+  </a>
+  <a href="https://github.com/Joylan9/Plumber-booking-portal">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=Plumber-booking-portal&theme=radical&hide_border=true" alt="Plumber-booking-portal" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Joylan9/genai-agent-sprint">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=genai-agent-sprint&theme=radical&hide_border=true" alt="genai-agent-sprint" />
+  </a>
+  <a href="https://github.com/Joylan9/Joylan-Portfolio">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Joylan9&repo=Joylan-Portfolio&theme=radical&hide_border=true" alt="Joylan-Portfolio" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Joylan9?tab=repositories">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5_VIEW_ALL_18_REPOSITORIES_%F0%9F%94%A5-1a1b27?style=for-the-badge&logo=github&logoColor=F75C7E" alt="All Repos"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="70%"/>
+</p>
+
+</details>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
