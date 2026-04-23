@@ -152,7 +152,7 @@ Currently exploring the intersection of **AI and modern web dev**.
   <a href="https://instagram.com/joylan_7">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/joylan-dsouza">
+  <a href="www.linkedin.com/in/joylan-dsouza-31b056263">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://pinterest.com/joylan_7">
