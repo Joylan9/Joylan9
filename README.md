@@ -99,7 +99,7 @@ Currently exploring the intersection of **AI and modern web dev**.
         <img src="https://github-readme-stats-fast.vercel.app/api?username=Joylan9&theme=rose&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joylan9&theme=rose&hide_border=false" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=Joylan9&theme=rose&hide_border=false" alt="Streak Stats" />
       </td>
     </tr>
   </table>
