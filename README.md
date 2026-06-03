@@ -35,6 +35,12 @@ Currently exploring the intersection of **AI and modern web dev**.
     <td valign="top" width="60%">
       <ul>
         <li>🔭 Currently working on: <b>AI + Full Stack projects</b></li>
+        <li>🌱 Currently learning: <b>LangChain, Vector DBs & Cloud Architecture</b></li>
+        <li>👯 Looking to collaborate on: <b>Open Source & AI-powered tools</b></li>
+        <li>💬 Ask me about: <b>React, Node.js, TypeScript, System Design</b></li>
+        <li>⚡ Fun fact: <b>I debug faster with lo-fi beats playing 🎵</b></li>
+        <li>🎯 2026 Goals: <b>Contribute more to Open Source & build AI products</b></li>
+        <li>📫 Reach me at: <b><a href="mailto:joylandsouza@gmail.com">joylandsouza@gmail.com</a></b></li>
       </ul>
     </td>
     <td valign="top" width="40%">
@@ -86,6 +92,13 @@ Currently exploring the intersection of **AI and modern web dev**.
   </a>
 </p>
 
+<p align="center"><b>AI / ML:</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- GITHUB STATS SECTION -->
@@ -133,8 +146,62 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+<!-- CURRENTLY BUILDING -->
 
+<h2>🚀 What I'm Currently Building</h2>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%94%A5+Shipping+code+daily+%7C+Building+the+future" alt="Typing SVG" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🧠_AI_Agent_Platform-F75C7E?style=for-the-badge" alt="AI Agent"/><br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/><br/>
+      <sub>Building intelligent AI agents with multi-modal capabilities</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🌐_Full_Stack_SaaS-0A66C2?style=for-the-badge" alt="SaaS"/><br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/><br/>
+      <sub>Scalable platforms with stunning UI & bulletproof backends</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- CURRENTLY LEARNING -->
+
+<h2>📚 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vector_Databases-FF6F61?style=for-the-badge" alt="Vector DBs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/System_Design-FFD700?style=for-the-badge" alt="System Design" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-4285F4?style=for-the-badge" alt="CI/CD" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- SOCIALS SECTION -->
 
@@ -161,6 +228,10 @@ Currently exploring the intersection of **AI and modern web dev**.
   &nbsp;
   <a href="https://discord.gg/joylan_7">
     <img src="https://img.shields.io/badge/-%E2%9C%A6%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/joylan_7">
+    <img src="https://img.shields.io/badge/-%E2%9C%A6%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" />
   </a>
 </p>
 
@@ -289,8 +360,22 @@ Currently exploring the intersection of **AI and modern web dev**.
 <!-- CLOSING SECTION -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A8+%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Quote" />
+</p>
+
+<p align="center">
   <i>"Code is poetry — write something beautiful today."</i><br/>
   ⭐ If you like what you see, consider starring my repos!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Joylan9?label=Followers&style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Joylan9?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" alt="Stars" />
 </p>
 
 <!-- PROFILE VIEWS COUNTER -->
@@ -300,5 +385,9 @@ Currently exploring the intersection of **AI and modern web dev**.
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <sub>💻 Crafted with ❤️ by <b>Joylan Dsouza</b> — <i>Turning ideas into reality, one commit at a time.</i></sub>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
