@@ -57,6 +57,10 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 <h2>🛠️ Tech Stack & Tools</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120" alt="Tech Stack"/>
+</p>
+
 <p align="center"><b>Languages:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -106,6 +110,10 @@ Currently exploring the intersection of **AI and modern web dev**.
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="120" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
   <table align="center">
     <tr>
       <td>
@@ -151,6 +159,10 @@ Currently exploring the intersection of **AI and modern web dev**.
 <h2>🚀 What I'm Currently Building</h2>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Rocket Launch"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%94%A5+Shipping+code+daily+%7C+Building+the+future" alt="Typing SVG" />
   </a>
@@ -177,35 +189,13 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<!-- CURRENTLY LEARNING -->
-
-<h2>📚 Currently Learning</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vector_Databases-FF6F61?style=for-the-badge" alt="Vector DBs" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/System_Design-FFD700?style=for-the-badge" alt="System Design" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-4285F4?style=for-the-badge" alt="CI/CD" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 <!-- SOCIALS SECTION -->
 
 <h2>🌐 Connect With Me</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="120" alt="Connect"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="60%"/>
@@ -270,6 +260,10 @@ Currently exploring the intersection of **AI and modern web dev**.
 <h2>💡 Random Dev Quote</h2>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Inspiration"/>
+</p>
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
@@ -290,6 +284,10 @@ Currently exploring the intersection of **AI and modern web dev**.
 <!-- EXPLORE MY REPOS -->
 
 <h2>🔝 Explore My Code</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="Explore Code"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
