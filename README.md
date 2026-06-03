@@ -140,30 +140,57 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 <h2>🌐 Connect With Me</h2>
 
-<p align="center"><i>Let's connect and build something amazing!</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="60%"/>
+</p>
 
 <p align="center">
-  <a href="https://discord.gg/joylan_7">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=40&lines=%E2%9C%A8+Let's+connect+and+build+something+amazing!;%F0%9F%8C%8D+Open+to+collaborate+worldwide;%F0%9F%92%AC+DMs+always+open;%F0%9F%A4%9D+Let's+create+something+incredible!" alt="Typing SVG" />
   </a>
-  <a href="https://www.facebook.com/joylan.dsouza.792">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/joylan_7">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/joylan-dsouza-31b056263">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-%E2%9C%A6%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://pinterest.com/joylan_7">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
+  &nbsp;
+  <a href="https://instagram.com/joylan_7">
+    <img src="https://img.shields.io/badge/-%E2%9C%A6%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
   </a>
+  &nbsp;
+  <a href="https://discord.gg/joylan_7">
+    <img src="https://img.shields.io/badge/-%E2%9C%A6%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/joylan.dsouza.792">
+    <img src="https://img.shields.io/badge/-%E2%9C%A6%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+  </a>
+  &nbsp;
   <a href="https://reddit.com/user/joylan_7">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" />
+    <img src="https://img.shields.io/badge/-%E2%9C%A6%20Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500" alt="Reddit" />
   </a>
+  &nbsp;
+  <a href="https://pinterest.com/joylan_7">
+    <img src="https://img.shields.io/badge/-%E2%9C%A6%20Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" alt="Pinterest" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:joylandsouza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20joylandsouza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <br><i><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</i>
 </p>
 
 <!-- DEV QUOTE -->
