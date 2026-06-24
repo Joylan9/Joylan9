@@ -40,7 +40,7 @@ Currently exploring the intersection of **AI and modern web dev**.
         <li>💬 Ask me about: <b>React, Node.js, TypeScript, System Design</b></li>
         <li>⚡ Fun fact: <b>I debug faster with lo-fi beats playing 🎵</b></li>
         <li>🎯 2026 Goals: <b>Contribute more to Open Source & build AI products</b></li>
-        <li>📫 Reach me at: <b><a href="mailto:joylandsouza@gmail.com">joylandsouza@gmail.com</a></b></li>
+        <li>📫 Reach me at: <b><a href="mailto:joylan928@gmail.com">joylan928@gmail.com</a></b></li>
       </ul>
     </td>
     <td valign="top" width="40%">
