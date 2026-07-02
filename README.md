@@ -365,16 +365,7 @@ Currently exploring the intersection of **AI and modern web dev**.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A8+%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Quote" />
 </p>
 
-<p align="center">
-  <i>"Code is poetry — write something beautiful today."</i><br/>
-  ⭐ If you like what you see, consider starring my repos!
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Joylan9?label=Followers&style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=github" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Joylan9?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" alt="Stars" />
-</p>
 
 <!-- PROFILE VIEWS COUNTER -->
 
