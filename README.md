@@ -34,7 +34,7 @@ Currently exploring the intersection of **AI and modern web dev**.
   <tr>
     <td valign="top" width="60%">
       <ul>
-        <li>🔭 Currently working on: <b>AI + Full Stack projects</b><li>
+        <li>🔭 Currently working on: <b>AI + Full Stack projects</b></li>
         <li>📫 Reach me at: <b><a href="mailto:joylan928@gmail.com">joylan928@gmail.com</a></b></li>
       </ul>
     </td>
