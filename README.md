@@ -240,8 +240,8 @@ Currently exploring the intersection of **AI and modern web dev**.
 </p>
 
 <p align="center">
-  <a href="mailto:joylandsouza@gmail.com">
-    <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20joylandsouza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  <a href="mailto:joylan928@gmail.com">
+    <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20joylan928%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
 </p>
 
