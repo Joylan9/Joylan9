@@ -34,12 +34,7 @@ Currently exploring the intersection of **AI and modern web dev**.
   <tr>
     <td valign="top" width="60%">
       <ul>
-        <li>🔭 Currently working on: <b>AI + Full Stack projects</b></li>
-        <li>🌱 Currently learning: <b>LangChain, Vector DBs & Cloud Architecture</b></li>
-        <li>👯 Looking to collaborate on: <b>Open Source & AI-powered tools</b></li>
-        <li>💬 Ask me about: <b>React, Node.js, TypeScript, System Design</b></li>
-        <li>⚡ Fun fact: <b>I debug faster with lo-fi beats playing 🎵</b></li>
-        <li>🎯 2026 Goals: <b>Contribute more to Open Source & build AI products</b></li>
+        <li>🔭 Currently working on: <b>AI + Full Stack projects</b><li>
         <li>📫 Reach me at: <b><a href="mailto:joylan928@gmail.com">joylan928@gmail.com</a></b></li>
       </ul>
     </td>
