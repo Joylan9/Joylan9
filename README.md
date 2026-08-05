@@ -42,7 +42,7 @@ Currently exploring the intersection of **AI and modern web dev**.
 
 <p align="center">
   <a href="https://portfolio-l3xs.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=50" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/%20%20P%20O%20R%20T%20F%20O%20L%20I%20O%20%20-2D4F3E?style=for-the-badge&labelColor=1a1a1a&logoColor=C9A84C" alt="Portfolio" height="38"/>
   </a>
 </p>
 
