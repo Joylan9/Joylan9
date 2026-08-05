@@ -31,29 +31,23 @@ Currently exploring the intersection of **AI and modern web dev**.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-l3xs.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=F75C7E&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%8C%90+Check+out+my+Portfolio!;%E2%9C%A8+See+my+projects+in+action;%F0%9F%9A%80+Live+demos+%26+case+studies+inside" alt="Portfolio Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=F75C7E&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%8C%90+Check+out+my+Portfolio!;%E2%9C%A8+Live+demos+%26+case+studies+inside;%F0%9F%94%A5+See+what+I%27ve+been+building" alt="Portfolio Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="160" alt="Portfolio Showcase"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Matrix Code Rain"/>
 </p>
 
 <p align="center">
   <a href="https://portfolio-l3xs.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=65" alt="Visit My Portfolio" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=50" alt="Visit My Portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-l3xs.vercel.app/">
-    <img src="https://img.shields.io/badge/🔗_portfolio--l3xs.vercel.app-F75C7E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio Link"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>👆 <b>Click above</b> to explore my live projects, case studies & the full story behind my work</sub>
+  <sub><i>👆 Explore my live projects & case studies</i></sub>
 </p>
 
 <p align="center">
@@ -73,7 +67,6 @@ Currently exploring the intersection of **AI and modern web dev**.
     <td valign="top" width="60%">
       <ul>
         <li>🔭 Currently working on: <b>AI + Full Stack projects</b></li>
-        <li>🌐 Portfolio: <b><a href="https://portfolio-l3xs.vercel.app/">portfolio-l3xs.vercel.app</a></b></li>
         <li>📫 Reach me at: <b><a href="mailto:joylan928@gmail.com">joylan928@gmail.com</a></b></li>
       </ul>
     </td>
@@ -242,10 +235,6 @@ Currently exploring the intersection of **AI and modern web dev**.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-l3xs.vercel.app/">
-    <img src="https://img.shields.io/badge/-%E2%9C%A6%20Portfolio-F75C7E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=F75C7E" alt="Portfolio" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/joylan-dsouza-31b056263">
     <img src="https://img.shields.io/badge/-%E2%9C%A6%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
