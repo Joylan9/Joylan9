@@ -144,17 +144,17 @@ Currently exploring the intersection of **AI and modern web dev**.
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Joylan9&theme=rose&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="520" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Joylan9&theme=rose&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="520" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=Joylan9&theme=rose&hide_border=false" alt="Streak Stats" width="520" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joylan9&theme=rose&hide_border=false" alt="Streak Stats" width="520" />
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joylan9&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&cache_seconds=1800" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joylan9&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" width="350" />
 </p>
 
 <p align="center">
