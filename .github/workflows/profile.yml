@@ -1,0 +1,64 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Self-hosted stat cards: overview, 3D skyline, languages, project cards.
+      # Also rewrites the README project list to match your pinned repos.
+      - name: Generate stat cards
+        run: node scripts/build-stats.mjs dist README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: add a PROFILE_TOKEN repo secret so private repos count too.
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#8B5CF6&color_dots=#EBEDF0,#FBD0DA,#F7A3B6,#F7708F,#E0335A
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#161B22,#4C1D3A,#7A2950,#B83C6A,#F75C7E
+
+      # Only publishes when every step above succeeded, so a failed run never wipes the live cards.
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Runs after the cards are live, so the README never points at an image that doesn't exist yet.
+      - name: Commit README if pinned projects changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: sync pinned projects [skip ci]"
+          git push

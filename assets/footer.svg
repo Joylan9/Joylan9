@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-label="Thanks for stopping by" fill="none">
+<title>Thanks for stopping by</title>
+
+<defs>
+  <linearGradient id="fb" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <clipPath id="fc"><rect width="1600" height="440" rx="32"/></clipPath>
+  <linearGradient id="fw1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F75C7E"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+  <linearGradient id="fw2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+</defs>
+<style>
+  .big{font:800 64px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:url(#fb);letter-spacing:-1.5px}
+  .qt{font:italic 500 34px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#F4F4F8}
+  .qa{font:500 24px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD;letter-spacing:2px}
+  .q{opacity:0;animation:q 20s infinite}
+  @keyframes q{0%{opacity:0;transform:translateY(12px)}4%,21%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-12px)}}
+  .w1{animation:w 14s linear infinite}.w2{animation:w 9s linear infinite reverse}.w3{animation:w 20s linear infinite}
+  @keyframes w{to{transform:translateX(-1600px)}}
+  .sig{font:500 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#F4F4F8;opacity:.85;letter-spacing:3px}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#fc)">
+  <rect width="1600" height="440" fill="#0C0E1A"/>
+  <path d="M0 340 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 q 100 -26 200 0 t 200 0 V 440 H 0 Z" fill="url(#fw2)" opacity=".18" class="w3"/>
+  <path d="M0 360 q 133.333325 -34 266.66665 0 t 266.66665 0 q 133.333325 -34 266.66665 0 t 266.66665 0 q 133.333325 -34 266.66665 0 t 266.66665 0 q 133.333325 -34 266.66665 0 t 266.66665 0 q 133.333325 -34 266.66665 0 t 266.66665 0 q 133.333325 -34 266.66665 0 t 266.66665 0 q 133.333325 -34 266.66665 0 t 266.66665 0 V 440 H 0 Z" fill="url(#fw1)" opacity=".3" class="w1"/>
+  <path d="M0 385 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 q 80 -22 160 0 t 160 0 V 440 H 0 Z" fill="url(#fw2)" opacity=".45" class="w2"/>
+  <text x="800" y="112" text-anchor="middle" class="big">Thanks for stopping by ✦</text>
+  <g class="q" style="animation-delay:0s"><text x="800" y="210" text-anchor="middle" class="qt">“The best way to predict the future is to build it.”</text><text x="800" y="260" text-anchor="middle" class="qa">— Alan Kay</text></g><g class="q" style="animation-delay:5s"><text x="800" y="210" text-anchor="middle" class="qt">“Make it work, make it right, make it fast.”</text><text x="800" y="260" text-anchor="middle" class="qa">— Kent Beck</text></g><g class="q" style="animation-delay:10s"><text x="800" y="210" text-anchor="middle" class="qt">“Simplicity is the soul of efficiency.”</text><text x="800" y="260" text-anchor="middle" class="qa">— Austin Freeman</text></g><g class="q" style="animation-delay:15s"><text x="800" y="210" text-anchor="middle" class="qt">“First, solve the problem. Then, write the code.”</text><text x="800" y="260" text-anchor="middle" class="qa">— John Johnson</text></g>
+  <text x="800" y="418" text-anchor="middle" class="sig">CRAFTED WITH CODE &amp; COFFEE · JOYLAN DSOUZA</text>
+</g>
+<rect x="1" y="1" width="1598" height="438" rx="31" stroke="rgba(255,255,255,.1)" stroke-width="2"/>
+</svg>

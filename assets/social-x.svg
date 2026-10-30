@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="112" viewBox="0 0 400 112" role="img" aria-label="X / Twitter" fill="none">
+<title>X / Twitter</title>
+
+<defs>
+  <clipPath id="c"><rect width="400" height="112" rx="28"/></clipPath>
+  <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="gl" cx="0.18" cy="0.5" r="0.6"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".45"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .l{font:700 34px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#F4F4F8;letter-spacing:-.3px}
+  .s{animation:s 4.5s ease-in-out infinite;animation-delay:0.90s}
+  @keyframes s{0%{transform:translateX(-200px)}45%,100%{transform:translateX(560px)}}
+  .g{animation:g 3s ease-in-out infinite;animation-delay:-0.8s}
+  @keyframes g{0%,100%{opacity:.6}50%{opacity:1}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="400" height="112" fill="#0C0E1A"/>
+  <rect width="400" height="112" fill="url(#gl)" class="g"/>
+  <rect x="0" y="0" width="160" height="112" fill="url(#sh)" class="s"/>
+</g>
+<rect x="1" y="1" width="398" height="110" rx="27" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="2"/>
+<circle cx="62" cy="56" r="34" fill="#FFFFFF" fill-opacity=".16" stroke="#FFFFFF" stroke-opacity=".5"/>
+<path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" fill="#FFFFFF" transform="translate(44 38) scale(1.5)"/>
+<text x="118" y="68" class="l">X / Twitter</text>
+<path d="M352 66 L368 50 M356 50 H368 V62" stroke="#9095AD" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

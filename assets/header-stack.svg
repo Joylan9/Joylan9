@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="190" viewBox="0 0 1600 190" role="img" aria-label="02 TECH STACK — Tools I build worlds with" fill="none">
+<title>02 TECH STACK — Tools I build worlds with</title>
+
+<defs>
+  <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="640" x2="960" y1="0" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <filter id="gl" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<style>
+  .k{font:600 26px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:7px;fill:#9095AD}
+  .n{fill:#F75C7E}
+  .t{font:800 68px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-1.5px;fill:#F4F4F8}
+  .in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+  .in2{animation-delay:.2s}
+  @keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+  .ln{stroke-dasharray:320;stroke-dashoffset:320;animation:draw 1.4s .4s cubic-bezier(.6,0,.2,1) forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g class="in"><text x="800" y="52" text-anchor="middle" class="k"><tspan class="n">02</tspan>  /  TECH STACK</text></g>
+<g class="in in2"><text x="800" y="132" text-anchor="middle" class="t">Tools I build worlds with</text></g>
+<line x1="640" y1="168" x2="960" y2="168" stroke="url(#g)" stroke-width="4" stroke-linecap="round" class="ln"/>
+<circle cy="168" r="5" fill="#fff" filter="url(#gl)"><animate attributeName="cx" values="640;960;640" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle>
+</svg>
