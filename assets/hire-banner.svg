@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="380" viewBox="0 0 1600 380" role="img" aria-label="Got an idea? Let's ship it. Start a project with Joylan" fill="none">
+<title>Got an idea? Let's ship it. Start a project with Joylan</title>
+
+<defs>
+  <linearGradient id="hg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="380">
+    <stop offset="0" stop-color="#F75C7E"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 190;20 800 190;0 800 190" dur="10s" repeatCount="indefinite"/>
+  </linearGradient>
+  <clipPath id="hc"><rect width="1600" height="380" rx="32"/></clipPath>
+  <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .t{font:800 76px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-2.5px;fill:#fff}
+  .s{font:500 30px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#fff;opacity:.9}
+  .b{font:800 30px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#06070D}
+  .sp{animation:sp 4s ease-in-out infinite}
+  @keyframes sp{0%,100%{opacity:.1}50%{opacity:.9}}
+  .shine{animation:shine 3.5s ease-in-out infinite}
+  @keyframes shine{0%{transform:translateX(-200px)}55%,100%{transform:translateX(560px)}}
+  .btn{transform-box:fill-box;transform-origin:center;animation:btn 2.4s ease-in-out infinite}
+  @keyframes btn{50%{transform:scale(1.04)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#hc)">
+  <rect width="1600" height="380" fill="url(#hg)"/>
+  <rect width="1600" height="380" fill="#06070D" opacity=".35"/>
+  <circle cx="381" cy="278" r="1.5" fill="#fff" class="sp" style="animation-delay:-3.4s"/><circle cx="1146" cy="137" r="2.0" fill="#fff" class="sp" style="animation-delay:-0.9s"/><circle cx="82" cy="330" r="1.1" fill="#fff" class="sp" style="animation-delay:-0.6s"/><circle cx="797" cy="245" r="1.3" fill="#fff" class="sp" style="animation-delay:-3.4s"/><circle cx="758" cy="147" r="2.8" fill="#fff" class="sp" style="animation-delay:-0.3s"/><circle cx="1568" cy="135" r="2.5" fill="#fff" class="sp" style="animation-delay:-2.4s"/><circle cx="959" cy="180" r="3.0" fill="#fff" class="sp" style="animation-delay:-1.8s"/><circle cx="804" cy="84" r="1.6" fill="#fff" class="sp" style="animation-delay:-3.2s"/><circle cx="300" cy="155" r="3.0" fill="#fff" class="sp" style="animation-delay:-1.0s"/><circle cx="1428" cy="107" r="1.9" fill="#fff" class="sp" style="animation-delay:-1.2s"/><circle cx="1420" cy="203" r="1.8" fill="#fff" class="sp" style="animation-delay:-2.4s"/><circle cx="163" cy="61" r="1.2" fill="#fff" class="sp" style="animation-delay:-0.6s"/><circle cx="1254" cy="110" r="1.2" fill="#fff" class="sp" style="animation-delay:-1.8s"/><circle cx="245" cy="136" r="1.0" fill="#fff" class="sp" style="animation-delay:-2.7s"/><circle cx="391" cy="116" r="2.1" fill="#fff" class="sp" style="animation-delay:-2.8s"/><circle cx="636" cy="244" r="1.3" fill="#fff" class="sp" style="animation-delay:-0.9s"/><circle cx="148" cy="215" r="2.8" fill="#fff" class="sp" style="animation-delay:-3.8s"/><circle cx="146" cy="185" r="1.3" fill="#fff" class="sp" style="animation-delay:-1.8s"/><circle cx="130" cy="238" r="2.6" fill="#fff" class="sp" style="animation-delay:-3.0s"/><circle cx="443" cy="215" r="2.9" fill="#fff" class="sp" style="animation-delay:-0.2s"/><circle cx="1095" cy="340" r="1.1" fill="#fff" class="sp" style="animation-delay:-2.3s"/><circle cx="1569" cy="125" r="3.0" fill="#fff" class="sp" style="animation-delay:-1.1s"/><circle cx="326" cy="372" r="1.4" fill="#fff" class="sp" style="animation-delay:-0.5s"/><circle cx="1159" cy="233" r="2.1" fill="#fff" class="sp" style="animation-delay:-3.2s"/><circle cx="290" cy="36" r="2.7" fill="#fff" class="sp" style="animation-delay:-1.6s"/><circle cx="556" cy="134" r="2.3" fill="#fff" class="sp" style="animation-delay:-1.1s"/><circle cx="205" cy="206" r="2.2" fill="#fff" class="sp" style="animation-delay:-0.8s"/><circle cx="221" cy="117" r="2.3" fill="#fff" class="sp" style="animation-delay:-1.7s"/><circle cx="909" cy="87" r="1.4" fill="#fff" class="sp" style="animation-delay:-1.1s"/><circle cx="458" cy="343" r="1.3" fill="#fff" class="sp" style="animation-delay:-2.5s"/><circle cx="621" cy="103" r="1.4" fill="#fff" class="sp" style="animation-delay:-3.7s"/><circle cx="1021" cy="32" r="1.2" fill="#fff" class="sp" style="animation-delay:-0.7s"/><circle cx="812" cy="248" r="1.9" fill="#fff" class="sp" style="animation-delay:-1.5s"/><circle cx="1235" cy="102" r="1.5" fill="#fff" class="sp" style="animation-delay:-0.1s"/><circle cx="1365" cy="358" r="2.1" fill="#fff" class="sp" style="animation-delay:-1.6s"/><circle cx="609" cy="131" r="2.8" fill="#fff" class="sp" style="animation-delay:-0.8s"/><circle cx="1044" cy="31" r="1.0" fill="#fff" class="sp" style="animation-delay:-3.2s"/><circle cx="1553" cy="278" r="1.3" fill="#fff" class="sp" style="animation-delay:-1.9s"/><circle cx="59" cy="87" r="1.5" fill="#fff" class="sp" style="animation-delay:-1.2s"/><circle cx="1394" cy="198" r="1.0" fill="#fff" class="sp" style="animation-delay:-0.4s"/>
+  <circle cx="1460" cy="40" r="180" fill="#fff" opacity=".07"/><circle cx="120" cy="360" r="140" fill="#fff" opacity=".06"/>
+  <text x="800" y="138" text-anchor="middle" class="t">Got an idea? Let's ship it.</text>
+  <text x="800" y="196" text-anchor="middle" class="s">Websites · Mobile apps · AI agents · SaaS — from first sketch to launch.</text>
+  <g class="btn">
+    <rect x="560" y="240" width="480" height="84" rx="42" fill="#fff"/>
+    <g clip-path="url(#hb)"><rect x="560" y="240" width="140" height="84" fill="url(#sh)" class="shine"/></g>
+    <text x="780" y="293" text-anchor="middle" class="b">Start a project</text>
+    <path d="M920 282 H956 M940 266 L957 282 L940 298" stroke="#06070D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <clipPath id="hb"><rect x="560" y="240" width="480" height="84" rx="42"/></clipPath>
+</g>
+<rect x="1.5" y="1.5" width="1597" height="377" rx="30.5" stroke="#fff" stroke-opacity=".25" stroke-width="3"/>
+</svg>

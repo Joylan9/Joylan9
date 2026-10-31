@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="428" viewBox="0 0 1600 428" role="img" aria-label="Backend &amp; APIs — Secure, documented REST APIs that scale, deployed with Docker on the cloud." fill="none">
+<title>Backend &amp; APIs — Secure, documented REST APIs that scale, deployed with Docker on the cloud.</title>
+
+<defs>
+    <clipPath id="sClip"><rect width="1600" height="400" rx="28"/></clipPath>
+    <linearGradient id="sEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="400">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 200;360 800 200" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="br" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="brv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+  <linearGradient id="img" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <radialGradient id="sg" cx=".8" cy=".5" r=".5"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <clipPath id="art"><rect width="560" height="320" rx="20"/></clipPath>
+</defs>
+<style>
+  .grow{transform-box:fill-box;transform-origin:left center;animation:grow 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes grow{0%{transform:scaleX(0)}14%,86%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}
+  .rise{transform-box:fill-box;transform-origin:center bottom;animation:rise 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes rise{0%{transform:scaleY(0)}14%,86%{transform:scaleY(1)}96%,100%{transform:scaleY(0)}}
+  .pop{transform-box:fill-box;transform-origin:center;animation:pop 6s cubic-bezier(.3,1.6,.5,1) infinite both}
+  @keyframes pop{0%{transform:scale(0);opacity:0}10%,86%{transform:scale(1);opacity:1}96%,100%{transform:scale(0);opacity:0}}
+  .slide{animation:slide 6s cubic-bezier(.2,.8,.2,1) infinite both}
+  @keyframes slide{0%{transform:translateX(40px);opacity:0}10%,86%{transform:none;opacity:1}96%,100%{transform:translateX(-20px);opacity:0}}
+  .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes draw{0%{stroke-dashoffset:1}30%,86%{stroke-dashoffset:0}100%{stroke-dashoffset:-1}}
+  .flow{animation:flow 1s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-16}}
+  .blink{animation:blink 1.4s steps(1) infinite}
+  @keyframes blink{50%{opacity:.25}}
+  .lbl{font:600 15px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD}
+  .tiny{font:600 13px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD}
+  .w{fill:#fff}
+  .scroll{animation:scroll 6s linear infinite}
+  @keyframes scroll{to{transform:translateY(-96px)}}
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .t{font:800 64px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-2px;fill:#F4F4F8}
+  .dsc{font:500 30px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#9095AD}
+  .chip{font:600 19px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#F4F4F8}
+  .num{font:800 200px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:none;stroke:rgba(255,255,255,.05);stroke-width:2}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#sClip)">
+  <rect width="1600" height="400" rx="28" fill="#0C0E1A"/>
+  <rect width="1600" height="400" fill="url(#sg)"/>
+  <text x="640" y="370" text-anchor="end" class="num">05</text>
+  <text x="90" y="92" class="k"><tspan fill="#F75C7E">SERVICE 05</tspan>  ·  I BUILD</text>
+  <text x="86" y="166" class="t">Backend &amp; APIs</text>
+  <text x="90" y="218" class="dsc">Secure, documented REST APIs that scale,</text><text x="90" y="258" class="dsc">deployed with Docker on the cloud.</text>
+  <rect x="90" y="300" width="96" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="138" y="328" text-anchor="middle" class="chip">Node</text><rect x="198" y="300" width="138" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="267" y="328" text-anchor="middle" class="chip">FastAPI</text><rect x="348" y="300" width="110" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="403" y="328" text-anchor="middle" class="chip">Redis</text><rect x="470" y="300" width="124" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="532" y="328" text-anchor="middle" class="chip">Docker</text>
+  <g transform="translate(970 40)">
+    <g clip-path="url(#art)"><rect width="560" height="320" fill="#111427"/>
+  <g transform="translate(30 50)">
+    <rect width="120" height="78" rx="8" fill="#151933" stroke="#2A2F55" stroke-width="2"/><rect x="10" y="10" width="100" height="52" rx="4" fill="#0A0C16"/>
+    <path d="M-12 84h144l-10 10H-2z" fill="#2A2F55"/><text x="60" y="44" text-anchor="middle" class="tiny">client</text>
+  </g>
+  <rect x="222" y="34" width="116" height="116" rx="22" fill="#111427" stroke="url(#br)" stroke-width="3"/>
+  <text x="280" y="88" text-anchor="middle" style="font:800 24px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" class="w">API</text>
+  <text x="280" y="112" text-anchor="middle" class="tiny">Node · FastAPI</text>
+  <circle cx="250" cy="134" r="3.5" fill="#34D399" class="blink" style="animation-delay:0s"/><circle cx="264" cy="134" r="3.5" fill="#34D399" class="blink" style="animation-delay:0.3s"/><circle cx="278" cy="134" r="3.5" fill="#34D399" class="blink" style="animation-delay:0.6s"/>
+  <g transform="translate(420 40)">
+    <ellipse cx="50" cy="12" rx="50" ry="12" fill="#2A2F55"/><path d="M0 12v76c0 7 22 12 50 12s50-5 50-12V12" fill="#151933" stroke="#2A2F55" stroke-width="2"/>
+    <path d="M0 40c0 7 22 12 50 12s50-5 50-12M0 66c0 7 22 12 50 12s50-5 50-12" stroke="#2A2F55" stroke-width="2"/>
+    <text x="50" y="128" text-anchor="middle" class="tiny">MongoDB · Redis</text>
+  </g>
+  <path d="M152 92 H222 M338 92 H420" stroke="#2A2F55" stroke-width="2" stroke-dasharray="5 5" class="flow"/>
+  <circle r="5" fill="#22D3EE"><animateMotion dur="1.2s" begin="0s" repeatCount="indefinite" path="M152 86 H222"/></circle><circle r="5" fill="#34D399"><animateMotion dur="1.2s" begin="0.6s" repeatCount="indefinite" path="M222 98 H152"/></circle><circle r="5" fill="#8B5CF6"><animateMotion dur="1.2s" begin="0.3s" repeatCount="indefinite" path="M338 86 H420"/></circle><circle r="5" fill="#F75C7E"><animateMotion dur="1.2s" begin="0.9s" repeatCount="indefinite" path="M420 98 H338"/></circle>
+  <rect x="20" y="200" width="520" height="104" rx="12" fill="#0A0C16" stroke="#2A2F55"/>
+  <clipPath id="logc"><rect x="20" y="210" width="520" height="86"/></clipPath>
+  <g clip-path="url(#logc)"><g class="scroll"><text x="40" y="232" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#34D399">GET  /api/orders   200  12ms</text><text x="40" y="256" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#22D3EE">POST /auth/login  201  34ms</text><text x="40" y="280" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#34D399">GET  /api/users    200   9ms</text><text x="40" y="304" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#34D399">PUT  /api/cart     200  18ms</text><text x="40" y="328" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#34D399">GET  /api/orders   200  12ms</text><text x="40" y="352" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#22D3EE">POST /auth/login  201  34ms</text><text x="40" y="376" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#34D399">GET  /api/users    200   9ms</text><text x="40" y="400" style="font:500 14px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#34D399">PUT  /api/cart     200  18ms</text></g></g></g>
+    <rect x=".75" y=".75" width="558.5" height="318.5" rx="19.5" stroke="rgba(255,255,255,.1)" stroke-width="1.5"/>
+  </g>
+</g>
+<rect x="1" y="1" width="1598" height="398" rx="27" fill="none" stroke="url(#sEdge)" stroke-width="2"/>
+</svg>

@@ -1,6 +1,7 @@
 // Builds the hand-designed animated SVGs in assets/. Run: node scripts/build-static.mjs
 import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
+import { buildServices } from "./build-services.mjs";
 import { C, SANS, MONO, ROOT, esc, rng, brandGradient, frame, svg, icon, glyph } from "./theme.mjs";
 
 const OUT = join(ROOT, "assets");
@@ -115,10 +116,10 @@ function hero() {
   </g>
 
   <g class="fade d1">
-    <rect x="530" y="118" width="540" height="58" rx="29" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)"/>
-    <circle cx="572" cy="147" r="8" fill="${C.green}" class="pulse"/>
-    <circle cx="572" cy="147" r="8" fill="${C.green}"/>
-    <text x="826" y="156" text-anchor="middle" class="pill">OPEN TO OPPORTUNITIES</text>
+    <rect x="480" y="118" width="640" height="58" rx="29" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)"/>
+    <circle cx="522" cy="147" r="8" fill="${C.green}" class="pulse"/>
+    <circle cx="522" cy="147" r="8" fill="${C.green}"/>
+    <text x="816" y="156" text-anchor="middle" class="pill">AVAILABLE FOR FREELANCE WORK</text>
   </g>
   <g class="fade d2"><text x="990" y="262" text-anchor="end" class="hi">Hi there, I'm Joylan</text>
     <text x="1004" y="262" font-size="44" fill="#fff" class="wave">👋</text></g>
@@ -137,22 +138,26 @@ ${f.edge}`;
 /* ------------------------------------------------------- SECTION HEADERS */
 const SECTIONS = [
   ["about", "01", "ABOUT ME", "The human behind the commits"],
-  ["stack", "02", "TECH STACK", "Tools I build worlds with"],
-  ["work", "03", "FEATURED WORK", "Things I've shipped"],
-  ["stats", "04", "GITHUB UNIVERSE", "Numbers that never sleep"],
-  ["badges", "05", "ACHIEVEMENTS", "Badges & milestones"],
-  ["connect", "06", "CONNECT", "Let's build something iconic"],
+  ["services", "02", "SERVICES", "What I can build for you"],
+  ["stack", "03", "TECH STACK", "Tools I build worlds with"],
+  ["work", "04", "FEATURED WORK", "Things I've shipped"],
+  ["stats", "05", "GITHUB UNIVERSE", "Numbers that never sleep"],
+  ["badges", "06", "ACHIEVEMENTS", "Badges & milestones"],
+  ["connect", "07", "CONNECT", "Let's build something iconic"],
 ];
+// Headers sit on GitHub's own page background, so each gets a dark- and a light-theme variant
+// (README picks one with <picture> + prefers-color-scheme, which follows the viewer's GitHub theme).
 function headers() {
-  for (const [slug, num, label, title] of SECTIONS) {
+  for (const [slug, num, label, title] of SECTIONS) for (const light of [false, true]) {
     const W = 1600, H = 190;
+    const ink = light ? "#1F2328" : C.text, sub = light ? "#57606A" : C.muted, dot = light ? C.violet : "#fff";
     const body = `
 <defs>${brandGradient("g", 'gradientUnits="userSpaceOnUse" x1="640" x2="960" y1="0" y2="0"')}
   <filter id="gl" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="5"/></filter></defs>
 <style>
-  .k{font:600 26px ${MONO};letter-spacing:7px;fill:${C.muted}}
+  .k{font:600 26px ${MONO};letter-spacing:7px;fill:${sub}}
   .n{fill:${C.rose}}
-  .t{font:800 68px ${SANS};letter-spacing:-1.5px;fill:${C.text}}
+  .t{font:800 68px ${SANS};letter-spacing:-1.5px;fill:${ink}}
   .in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
   .in2{animation-delay:.2s}
   @keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
@@ -163,8 +168,8 @@ function headers() {
 <g class="in"><text x="800" y="52" text-anchor="middle" class="k"><tspan class="n">${num}</tspan>  /  ${esc(label)}</text></g>
 <g class="in in2"><text x="800" y="132" text-anchor="middle" class="t">${esc(title)}</text></g>
 <line x1="640" y1="168" x2="960" y2="168" stroke="url(#g)" stroke-width="4" stroke-linecap="round" class="ln"/>
-<circle cy="168" r="5" fill="#fff" filter="url(#gl)"><animate attributeName="cx" values="640;960;640" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle>`;
-    write(`header-${slug}.svg`, svg(W, H, body, `${num} ${label} — ${title}`));
+<circle cy="168" r="5" fill="${dot}" filter="url(#gl)"><animate attributeName="cx" values="640;960;640" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle>`;
+    write(`header-${slug}${light ? "-light" : ""}.svg`, svg(W, H, body, `${num} ${label} — ${title}`));
   }
 }
 
@@ -257,7 +262,7 @@ function stack() {
     ["Languages", "the grammar", ["typescript", "javascript", "python", "java", "dart"]],
     ["Frontend & Mobile", "pixels that feel", ["react", "nextjs", "tailwind", "flutter", "html", "css"]],
     ["Backend & APIs", "the engine room", ["nodejs", "express", "fastapi", "docker"]],
-    ["Data & Cloud", "where state lives", ["mongodb", "mysql", "redis", "firebase"]],
+    ["Data & Cloud", "where state lives", ["mongodb", "mysql", "redis", "firebase", "hostinger"]],
     ["AI / ML", "teaching machines", ["tensorflow", "pytorch", "opencv"]],
     ["Tooling", "daily drivers", ["git", "github", "vscode", "postman", "figma", "notion"]],
   ];
@@ -305,7 +310,7 @@ function stack() {
   ${REDUCED}
 </style>
 ${panels}`;
-  write("stack.svg", svg(W, H, body, "Tech stack: TypeScript, JavaScript, Python, Java, Dart, React, Next.js, Tailwind, Flutter, Node.js, Express, FastAPI, Docker, MongoDB, MySQL, Redis, Firebase, TensorFlow, PyTorch, OpenCV, Git, GitHub, VS Code, Postman, Figma, Notion"));
+  write("stack.svg", svg(W, H, body, "Tech stack: TypeScript, JavaScript, Python, Java, Dart, React, Next.js, Tailwind, Flutter, Node.js, Express, FastAPI, Docker, MongoDB, MySQL, Redis, Firebase, Hostinger, TensorFlow, PyTorch, OpenCV, Git, GitHub, VS Code, Postman, Figma, Notion"));
 }
 
 /* --------------------------------------------------------- SOCIAL PILLS */
@@ -440,4 +445,4 @@ function divider() {
   write("divider.svg", svg(W, H, body, "divider"));
 }
 
-hero(); headers(); about(); stack(); socials(); cta(); footer(); divider();
+hero(); headers(); about(); stack(); socials(); cta(); footer(); divider(); buildServices();

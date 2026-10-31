@@ -90,10 +90,10 @@
   </g>
 
   <g class="fade d1">
-    <rect x="530" y="118" width="540" height="58" rx="29" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)"/>
-    <circle cx="572" cy="147" r="8" fill="#34D399" class="pulse"/>
-    <circle cx="572" cy="147" r="8" fill="#34D399"/>
-    <text x="826" y="156" text-anchor="middle" class="pill">OPEN TO OPPORTUNITIES</text>
+    <rect x="480" y="118" width="640" height="58" rx="29" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)"/>
+    <circle cx="522" cy="147" r="8" fill="#34D399" class="pulse"/>
+    <circle cx="522" cy="147" r="8" fill="#34D399"/>
+    <text x="816" y="156" text-anchor="middle" class="pill">AVAILABLE FOR FREELANCE WORK</text>
   </g>
   <g class="fade d2"><text x="990" y="262" text-anchor="end" class="hi">Hi there, I'm Joylan</text>
     <text x="1004" y="262" font-size="44" fill="#fff" class="wave">👋</text></g>

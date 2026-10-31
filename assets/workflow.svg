@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="680" viewBox="0 0 1600 680" role="img" aria-label="My workflow: Discover, Design, Build, Test, Launch, Grow" fill="none">
+<title>My workflow: Discover, Design, Build, Test, Launch, Grow</title>
+
+<defs>
+    <clipPath id="wClip"><rect width="1600" height="680" rx="28"/></clipPath>
+    <linearGradient id="wEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="680">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 340;360 800 340" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="wB" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="wR" gradientUnits="userSpaceOnUse" x1="300" x2="1460" y1="0" y2="0"><stop offset="0" stop-color="#F75C7E"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <filter id="wG" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .n{font:700 20px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:3px;fill:#F75C7E}
+  .t{font:800 40px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-1px;fill:#F4F4F8}
+  .s{font:500 25px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#9095AD}
+  .act{opacity:0;animation:act 9s ease-in-out infinite}
+  @keyframes act{0%{opacity:0}4%,14%{opacity:1}22%,100%{opacity:0}}
+  .fl{stroke-dasharray:14 12;animation:fl 1.2s linear infinite}
+  @keyframes fl{to{stroke-dashoffset:-26}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#wClip)">
+  <rect width="1600" height="680" rx="28" fill="#0C0E1A"/>
+  <text x="60" y="70" class="k">THE WORKFLOW · IDEA → LAUNCH</text>
+  <text x="1540" y="70" text-anchor="end" class="k">~2–6 WEEKS</text>
+  <path d="M300 210 H1300 C1470 210 1470 490 1300 490 H300" stroke="rgba(255,255,255,.08)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M300 210 H1300 C1470 210 1470 490 1300 490 H300" stroke="url(#wR)" stroke-width="3" class="fl" opacity=".9"/>
+  <g>
+      <circle cx="300" cy="210" r="62" fill="#111427" stroke="rgba(255,255,255,.1)" stroke-width="2"/>
+      <circle cx="300" cy="210" r="62" stroke="url(#wB)" stroke-width="4" class="act" style="animation-delay:0.00s"/>
+      <path d="M-14 -14a20 20 0 1 0 28 28 20 20 0 0 0-28-28zM14 14l18 18" transform="translate(300 210)" stroke="#F4F4F8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="300" y="128" text-anchor="middle" class="n">01</text>
+      <text x="300" y="318" text-anchor="middle" class="t">Discover</text>
+      <text x="300" y="354" text-anchor="middle" class="s">Goals, users &amp; scope</text>
+    </g><g>
+      <circle cx="800" cy="210" r="62" fill="#111427" stroke="rgba(255,255,255,.1)" stroke-width="2"/>
+      <circle cx="800" cy="210" r="62" stroke="url(#wB)" stroke-width="4" class="act" style="animation-delay:1.50s"/>
+      <path d="M0 -26 18 6 0 26-18 6zM0 -26v52M-18 6h36" transform="translate(800 210)" stroke="#F4F4F8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="800" y="128" text-anchor="middle" class="n">02</text>
+      <text x="800" y="318" text-anchor="middle" class="t">Design</text>
+      <text x="800" y="354" text-anchor="middle" class="s">Wireframes → Figma UI</text>
+    </g><g>
+      <circle cx="1300" cy="210" r="62" fill="#111427" stroke="rgba(255,255,255,.1)" stroke-width="2"/>
+      <circle cx="1300" cy="210" r="62" stroke="url(#wB)" stroke-width="4" class="act" style="animation-delay:3.00s"/>
+      <path d="M-12 -16 -28 0l16 16M12 -16 28 0 12 16M6 -24-6 24" transform="translate(1300 210)" stroke="#F4F4F8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="1300" y="128" text-anchor="middle" class="n">03</text>
+      <text x="1300" y="318" text-anchor="middle" class="t">Build</text>
+      <text x="1300" y="354" text-anchor="middle" class="s">Clean, typed, tested code</text>
+    </g><g>
+      <circle cx="1300" cy="490" r="62" fill="#111427" stroke="rgba(255,255,255,.1)" stroke-width="2"/>
+      <circle cx="1300" cy="490" r="62" stroke="url(#wB)" stroke-width="4" class="act" style="animation-delay:4.50s"/>
+      <path d="M0 -26 24 -16v14c0 16-10 26-24 30-14-4-24-14-24-30v-14zM-10 2l7 7 14-14" transform="translate(1300 490)" stroke="#F4F4F8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="1300" y="408" text-anchor="middle" class="n">04</text>
+      <text x="1300" y="598" text-anchor="middle" class="t">Test</text>
+      <text x="1300" y="634" text-anchor="middle" class="s">CI, QA &amp; performance</text>
+    </g><g>
+      <circle cx="800" cy="490" r="62" fill="#111427" stroke="rgba(255,255,255,.1)" stroke-width="2"/>
+      <circle cx="800" cy="490" r="62" stroke="url(#wB)" stroke-width="4" class="act" style="animation-delay:6.00s"/>
+      <path d="M0 -28c12 8 16 22 12 38H-12c-4-16 0-30 12-38zM-12 10l-10 12h10M12 10l10 12H12M0 -8a5 5 0 1 0 .1 0" transform="translate(800 490)" stroke="#F4F4F8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="800" y="408" text-anchor="middle" class="n">05</text>
+      <text x="800" y="598" text-anchor="middle" class="t">Launch</text>
+      <text x="800" y="634" text-anchor="middle" class="s">Vercel · Hostinger · Stores</text>
+    </g><g>
+      <circle cx="300" cy="490" r="62" fill="#111427" stroke="rgba(255,255,255,.1)" stroke-width="2"/>
+      <circle cx="300" cy="490" r="62" stroke="url(#wB)" stroke-width="4" class="act" style="animation-delay:7.50s"/>
+      <path d="M-26 20-6 0 6 10 26-14M12 -14h14v14" transform="translate(300 490)" stroke="#F4F4F8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="300" y="408" text-anchor="middle" class="n">06</text>
+      <text x="300" y="598" text-anchor="middle" class="t">Grow</text>
+      <text x="300" y="634" text-anchor="middle" class="s">Analytics &amp; iterations</text>
+    </g>
+  <circle r="9" fill="#fff" filter="url(#wG)"><animateMotion dur="9s" repeatCount="indefinite" path="M300 210 H1300 C1470 210 1470 490 1300 490 H300" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/></circle>
+</g>
+<rect x="1" y="1" width="1598" height="678" rx="27" fill="none" stroke="url(#wEdge)" stroke-width="2"/>
+</svg>

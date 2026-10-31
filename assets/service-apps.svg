@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="428" viewBox="0 0 1600 428" role="img" aria-label="Mobile Apps — Cross-platform iOS &amp; Android apps with smooth native feel, built in Flutter." fill="none">
+<title>Mobile Apps — Cross-platform iOS &amp; Android apps with smooth native feel, built in Flutter.</title>
+
+<defs>
+    <clipPath id="sClip"><rect width="1600" height="400" rx="28"/></clipPath>
+    <linearGradient id="sEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="400">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 200;360 800 200" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="br" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="brv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+  <linearGradient id="img" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <radialGradient id="sg" cx=".2" cy=".5" r=".5"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <clipPath id="art"><rect width="560" height="320" rx="20"/></clipPath>
+</defs>
+<style>
+  .grow{transform-box:fill-box;transform-origin:left center;animation:grow 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes grow{0%{transform:scaleX(0)}14%,86%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}
+  .rise{transform-box:fill-box;transform-origin:center bottom;animation:rise 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes rise{0%{transform:scaleY(0)}14%,86%{transform:scaleY(1)}96%,100%{transform:scaleY(0)}}
+  .pop{transform-box:fill-box;transform-origin:center;animation:pop 6s cubic-bezier(.3,1.6,.5,1) infinite both}
+  @keyframes pop{0%{transform:scale(0);opacity:0}10%,86%{transform:scale(1);opacity:1}96%,100%{transform:scale(0);opacity:0}}
+  .slide{animation:slide 6s cubic-bezier(.2,.8,.2,1) infinite both}
+  @keyframes slide{0%{transform:translateX(40px);opacity:0}10%,86%{transform:none;opacity:1}96%,100%{transform:translateX(-20px);opacity:0}}
+  .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes draw{0%{stroke-dashoffset:1}30%,86%{stroke-dashoffset:0}100%{stroke-dashoffset:-1}}
+  .flow{animation:flow 1s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-16}}
+  .blink{animation:blink 1.4s steps(1) infinite}
+  @keyframes blink{50%{opacity:.25}}
+  .lbl{font:600 15px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD}
+  .tiny{font:600 13px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD}
+  .w{fill:#fff}
+  .toast{animation:toast 6s cubic-bezier(.2,.8,.2,1) infinite}
+  @keyframes toast{0%,40%{transform:translateY(0)}48%,78%{transform:translateY(70px)}86%,100%{transform:translateY(0)}}
+  .ring{animation:ring 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes ring{0%{stroke-dasharray:0 1}30%,86%{stroke-dasharray:.82 1}100%{stroke-dasharray:0 1}}
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .t{font:800 64px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-2px;fill:#F4F4F8}
+  .dsc{font:500 30px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#9095AD}
+  .chip{font:600 19px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#F4F4F8}
+  .num{font:800 200px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:none;stroke:rgba(255,255,255,.05);stroke-width:2}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#sClip)">
+  <rect width="1600" height="400" rx="28" fill="#0C0E1A"/>
+  <rect width="1600" height="400" fill="url(#sg)"/>
+  <text x="1560" y="370" text-anchor="end" class="num">02</text>
+  <text x="700" y="92" class="k"><tspan fill="#F75C7E">SERVICE 02</tspan>  ·  I BUILD</text>
+  <text x="696" y="166" class="t">Mobile Apps</text>
+  <text x="700" y="218" class="dsc">Cross-platform iOS &amp; Android apps with</text><text x="700" y="258" class="dsc">smooth native feel, built in Flutter.</text>
+  <rect x="700" y="300" width="138" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="769" y="328" text-anchor="middle" class="chip">Flutter</text><rect x="850" y="300" width="96" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="898" y="328" text-anchor="middle" class="chip">Dart</text><rect x="958" y="300" width="152" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="1034" y="328" text-anchor="middle" class="chip">Firebase</text><rect x="1122" y="300" width="264" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="1254" y="328" text-anchor="middle" class="chip">Play / App Store</text>
+  <g transform="translate(70 40)">
+    <g clip-path="url(#art)"><rect width="560" height="320" fill="#111427"/>
+  
+    <rect x="90" y="16" width="160" height="290" rx="28" fill="#0A0C16" stroke="#2A2F55" stroke-width="3"/>
+    <rect x="145" y="26" width="50" height="9" rx="4.5" fill="#151933"/>
+    <text x="108" y="62" style="font:800 17px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" class="w">Orders</text><g class="slide" style="animation-delay:0.2s">
+      <rect x="104" y="78" width="132" height="40" rx="11" fill="#151933"/>
+      <circle cx="124" cy="98" r="10" fill="#F75C7E"/>
+      <rect x="142" y="90" width="70" height="7" rx="3.5" fill="#E8E8F2" opacity=".7"/>
+      <rect x="142" y="102" width="46" height="6" rx="3" fill="#2A2F55"/></g><g class="slide" style="animation-delay:0.35s">
+      <rect x="104" y="128" width="132" height="40" rx="11" fill="#151933"/>
+      <circle cx="124" cy="148" r="10" fill="#8B5CF6"/>
+      <rect x="142" y="140" width="70" height="7" rx="3.5" fill="#E8E8F2" opacity=".7"/>
+      <rect x="142" y="152" width="46" height="6" rx="3" fill="#2A2F55"/></g><g class="slide" style="animation-delay:0.5s">
+      <rect x="104" y="178" width="132" height="40" rx="11" fill="#151933"/>
+      <circle cx="124" cy="198" r="10" fill="#22D3EE"/>
+      <rect x="142" y="190" width="70" height="7" rx="3.5" fill="#E8E8F2" opacity=".7"/>
+      <rect x="142" y="202" width="46" height="6" rx="3" fill="#2A2F55"/></g><g class="slide" style="animation-delay:0.6499999999999999s">
+      <rect x="104" y="228" width="132" height="40" rx="11" fill="#151933"/>
+      <circle cx="124" cy="248" r="10" fill="#FBBF24"/>
+      <rect x="142" y="240" width="70" height="7" rx="3.5" fill="#E8E8F2" opacity=".7"/>
+      <rect x="142" y="252" width="46" height="6" rx="3" fill="#2A2F55"/></g>
+    <rect x="145" y="290" width="50" height="5" rx="2.5" fill="#2A2F55"/>
+  
+    <rect x="310" y="16" width="160" height="290" rx="28" fill="#0A0C16" stroke="#2A2F55" stroke-width="3"/>
+    <rect x="365" y="26" width="50" height="9" rx="4.5" fill="#151933"/>
+    <circle cx="390" cy="118" r="44" stroke="#151933" stroke-width="10"/>
+    <circle cx="390" cy="118" r="44" pathLength="1" stroke="url(#br)" stroke-width="10" stroke-linecap="round" stroke-dasharray=".82 1" class="ring" transform="rotate(-90 390 118)"/>
+    <text x="390" y="125" text-anchor="middle" style="font:800 22px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" class="w">82%</text><rect x="326" y="218" width="14" height="44" rx="4" fill="url(#brv)" class="rise" style="animation-delay:0.3s"/><rect x="348" y="192" width="14" height="70" rx="4" fill="url(#brv)" class="rise" style="animation-delay:0.4s"/><rect x="370" y="210" width="14" height="52" rx="4" fill="url(#brv)" class="rise" style="animation-delay:0.5s"/><rect x="392" y="172" width="14" height="90" rx="4" fill="url(#brv)" class="rise" style="animation-delay:0.6000000000000001s"/><rect x="414" y="198" width="14" height="64" rx="4" fill="url(#brv)" class="rise" style="animation-delay:0.7s"/>
+    <rect x="365" y="290" width="50" height="5" rx="2.5" fill="#2A2F55"/>
+  <g class="toast"><rect x="160" y="-52" width="240" height="44" rx="22" fill="#111427" stroke="#F75C7E" stroke-opacity=".7"/>
+    <circle cx="184" cy="-30" r="9" fill="#F75C7E"/><text x="202" y="-25" style="font:700 14px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" class="w">New order received</text></g>
+  <text x="28" y="300" class="lbl">iOS</text><text x="500" y="300" class="lbl">Android</text></g>
+    <rect x=".75" y=".75" width="558.5" height="318.5" rx="19.5" stroke="rgba(255,255,255,.1)" stroke-width="1.5"/>
+  </g>
+</g>
+<rect x="1" y="1" width="1598" height="398" rx="27" fill="none" stroke="url(#sEdge)" stroke-width="2"/>
+</svg>

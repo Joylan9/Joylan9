@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="190" viewBox="0 0 1600 190" role="img" aria-label="02 TECH STACK — Tools I build worlds with" fill="none">
-<title>02 TECH STACK — Tools I build worlds with</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="190" viewBox="0 0 1600 190" role="img" aria-label="03 TECH STACK — Tools I build worlds with" fill="none">
+<title>03 TECH STACK — Tools I build worlds with</title>
 
 <defs>
   <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="640" x2="960" y1="0" y2="0">
@@ -19,7 +19,7 @@
   @keyframes draw{to{stroke-dashoffset:0}}
   @media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
-<g class="in"><text x="800" y="52" text-anchor="middle" class="k"><tspan class="n">02</tspan>  /  TECH STACK</text></g>
+<g class="in"><text x="800" y="52" text-anchor="middle" class="k"><tspan class="n">03</tspan>  /  TECH STACK</text></g>
 <g class="in in2"><text x="800" y="132" text-anchor="middle" class="t">Tools I build worlds with</text></g>
 <line x1="640" y1="168" x2="960" y2="168" stroke="url(#g)" stroke-width="4" stroke-linecap="round" class="ln"/>
 <circle cy="168" r="5" fill="#fff" filter="url(#gl)"><animate attributeName="cx" values="640;960;640" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="428" viewBox="0 0 1600 428" role="img" aria-label="UI / UX Design — Figma-first interfaces and design systems with motion that feels premium." fill="none">
+<title>UI / UX Design — Figma-first interfaces and design systems with motion that feels premium.</title>
+
+<defs>
+    <clipPath id="sClip"><rect width="1600" height="400" rx="28"/></clipPath>
+    <linearGradient id="sEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="400">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 200;360 800 200" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="br" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="brv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+  <linearGradient id="img" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <radialGradient id="sg" cx=".2" cy=".5" r=".5"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <clipPath id="art"><rect width="560" height="320" rx="20"/></clipPath>
+</defs>
+<style>
+  .grow{transform-box:fill-box;transform-origin:left center;animation:grow 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes grow{0%{transform:scaleX(0)}14%,86%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}
+  .rise{transform-box:fill-box;transform-origin:center bottom;animation:rise 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes rise{0%{transform:scaleY(0)}14%,86%{transform:scaleY(1)}96%,100%{transform:scaleY(0)}}
+  .pop{transform-box:fill-box;transform-origin:center;animation:pop 6s cubic-bezier(.3,1.6,.5,1) infinite both}
+  @keyframes pop{0%{transform:scale(0);opacity:0}10%,86%{transform:scale(1);opacity:1}96%,100%{transform:scale(0);opacity:0}}
+  .slide{animation:slide 6s cubic-bezier(.2,.8,.2,1) infinite both}
+  @keyframes slide{0%{transform:translateX(40px);opacity:0}10%,86%{transform:none;opacity:1}96%,100%{transform:translateX(-20px);opacity:0}}
+  .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 6s cubic-bezier(.6,0,.2,1) infinite both}
+  @keyframes draw{0%{stroke-dashoffset:1}30%,86%{stroke-dashoffset:0}100%{stroke-dashoffset:-1}}
+  .flow{animation:flow 1s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-16}}
+  .blink{animation:blink 1.4s steps(1) infinite}
+  @keyframes blink{50%{opacity:.25}}
+  .lbl{font:600 15px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD}
+  .tiny{font:600 13px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD}
+  .w{fill:#fff}
+  .c1{animation:c1 6s ease-in-out infinite}
+  @keyframes c1{0%{transform:translate(70px,240px)}33%{transform:translate(215px,205px)}66%{transform:translate(320px,190px)}100%{transform:translate(70px,240px)}}
+  .c2{animation:c2 7s ease-in-out infinite}
+  @keyframes c2{0%{transform:translate(400px,60px)}40%{transform:translate(150px,120px)}75%{transform:translate(440px,170px)}100%{transform:translate(400px,60px)}}
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .t{font:800 64px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-2px;fill:#F4F4F8}
+  .dsc{font:500 30px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#9095AD}
+  .chip{font:600 19px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#F4F4F8}
+  .num{font:800 200px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:none;stroke:rgba(255,255,255,.05);stroke-width:2}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#sClip)">
+  <rect width="1600" height="400" rx="28" fill="#0C0E1A"/>
+  <rect width="1600" height="400" fill="url(#sg)"/>
+  <text x="1560" y="370" text-anchor="end" class="num">06</text>
+  <text x="700" y="92" class="k"><tspan fill="#F75C7E">SERVICE 06</tspan>  ·  I BUILD</text>
+  <text x="696" y="166" class="t">UI / UX Design</text>
+  <text x="700" y="218" class="dsc">Figma-first interfaces and design systems</text><text x="700" y="258" class="dsc">with motion that feels premium.</text>
+  <rect x="700" y="300" width="110" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="755" y="328" text-anchor="middle" class="chip">Figma</text><rect x="822" y="300" width="236" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="940" y="328" text-anchor="middle" class="chip">Design systems</text><rect x="1070" y="300" width="180" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="1160" y="328" text-anchor="middle" class="chip">Prototypes</text><rect x="1262" y="300" width="124" height="44" rx="22" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="1324" y="328" text-anchor="middle" class="chip">Motion</text>
+  <g transform="translate(70 40)">
+    <g clip-path="url(#art)"><rect width="560" height="320" fill="#111427"/>
+  <rect x="24" y="24" width="330" height="272" rx="14" fill="#F5F3FF"/>
+  <text x="40" y="50" style="font:700 12px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" fill="#8B8FA3">Frame · Hero</text>
+  <rect x="48" y="70" width="150" height="16" rx="5" fill="#1F2140" class="grow" style="animation-delay:0.1s"/>
+  <rect x="48" y="94" width="110" height="10" rx="5" fill="#B9B7D6" class="grow" style="animation-delay:0.25s"/>
+  <g class="pop" style="animation-delay:0.4s"><rect x="48" y="116" width="90" height="28" rx="14" fill="#8B5CF6"/></g>
+  <path d="M60 250 C 110 150, 170 300, 220 210 S 310 150, 330 200" pathLength="1" stroke="#F75C7E" stroke-width="5" stroke-linecap="round" class="draw" style="animation-delay:0.3s"/>
+  <rect x="54" y="244" width="12" height="12" fill="#fff" stroke="#8B5CF6" stroke-width="2" class="pop" style="animation-delay:0.6s"/><rect x="214" y="204" width="12" height="12" fill="#fff" stroke="#8B5CF6" stroke-width="2" class="pop" style="animation-delay:0.8s"/><rect x="324" y="194" width="12" height="12" fill="#fff" stroke="#8B5CF6" stroke-width="2" class="pop" style="animation-delay:1s"/>
+  <line x1="220" y1="210" x2="270" y2="168" stroke="#8B5CF6" stroke-width="1.5" class="pop" style="animation-delay:1s"/><circle cx="270" cy="168" r="5" fill="#8B5CF6" class="pop" style="animation-delay:1s"/>
+  <rect x="370" y="24" width="166" height="272" rx="14" fill="#0A0C16" stroke="#2A2F55"/>
+  <text x="386" y="52" class="tiny">FILL</text>
+  <circle cx="396" cy="76" r="11" fill="#F75C7E" class="pop" style="animation-delay:0.2s"/><circle cx="425" cy="76" r="11" fill="#8B5CF6" class="pop" style="animation-delay:0.30000000000000004s"/><circle cx="454" cy="76" r="11" fill="#22D3EE" class="pop" style="animation-delay:0.4s"/><circle cx="483" cy="76" r="11" fill="#FBBF24" class="pop" style="animation-delay:0.5s"/><circle cx="512" cy="76" r="11" fill="#34D399" class="pop" style="animation-delay:0.6000000000000001s"/>
+  <text x="386" y="118" class="tiny">RADIUS</text>
+  <rect x="386" y="130" width="134" height="6" rx="3" fill="#2A2F55"/><rect x="386" y="130" width="134" height="6" rx="3" fill="url(#br)" class="grow" style="animation-delay:0.5s"/>
+  <text x="386" y="168" class="tiny">MOTION</text>
+  <rect x="386" y="180" width="134" height="6" rx="3" fill="#2A2F55"/><rect x="386" y="180" width="96" height="6" rx="3" fill="url(#br)" class="grow" style="animation-delay:0.7s"/>
+  <text x="386" y="220" class="tiny">LAYERS</text>
+  <rect x="386" y="232" width="120" height="9" rx="4.5" fill="#2A2F55"/><rect x="386" y="252" width="96" height="9" rx="4.5" fill="#2A2F55"/><rect x="386" y="272" width="72" height="9" rx="4.5" fill="#2A2F55"/>
+  <g class="c1"><path d="M0 0 L0 20 L6 15 L10 24 L14 22 L10 13 L17 13 Z" fill="#F75C7E"/><rect x="14" y="20" width="62" height="22" rx="6" fill="#F75C7E"/><text x="45" y="36" text-anchor="middle" style="font:700 12px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" class="w">Joylan</text></g>
+  <g class="c2"><path d="M0 0 L0 20 L6 15 L10 24 L14 22 L10 13 L17 13 Z" fill="#22D3EE"/><rect x="14" y="20" width="58" height="22" rx="6" fill="#22D3EE"/><text x="43" y="36" text-anchor="middle" style="font:700 12px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" fill="#0A0C16">Client</text></g></g>
+    <rect x=".75" y=".75" width="558.5" height="318.5" rx="19.5" stroke="rgba(255,255,255,.1)" stroke-width="1.5"/>
+  </g>
+</g>
+<rect x="1" y="1" width="1598" height="398" rx="27" fill="none" stroke="url(#sEdge)" stroke-width="2"/>
+</svg>

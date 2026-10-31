@@ -20,7 +20,10 @@
 
 <!-- ─────────────────────────────── 01 · ABOUT ─────────────────────────────── -->
 
-<img src="assets/header-about.svg" width="100%" alt="01 / About me — The human behind the commits" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-about-light.svg" />
+  <img src="assets/header-about.svg" width="100%" alt="01 / About me — The human behind the commits" />
+</picture>
 
 <img src="assets/about.svg" width="100%" alt="const joylan = { role: 'Full-Stack Developer', based: 'India', focus: ['AI Agents', 'SaaS', 'UI'], building: 'TraceAI', available: true }" />
 
@@ -29,15 +32,39 @@
   Currently exploring the intersection of <b>LLM agents and modern web engineering</b>. Reach me at <a href="mailto:joylan928@gmail.com">joylan928@gmail.com</a>.
 </p>
 
-<!-- ───────────────────────────── 02 · TECH STACK ───────────────────────────── -->
+<!-- ───────────────────────────── 02 · SERVICES ────────────────────────────── -->
 
-<img src="assets/header-stack.svg" width="100%" alt="02 / Tech stack — Tools I build worlds with" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-services-light.svg" />
+  <img src="assets/header-services.svg" width="100%" alt="02 / Services — What I can build for you" />
+</picture>
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, Java, Dart, React, Next.js, Tailwind, Flutter, Node.js, Express, FastAPI, Docker, MongoDB, MySQL, Redis, Firebase, TensorFlow, PyTorch, OpenCV, Git, GitHub, VS Code, Postman, Figma, Notion" />
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/service-web.svg" width="100%" alt="Websites & Landing Pages" /></a>
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/service-apps.svg" width="100%" alt="Mobile Apps" /></a>
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/service-ai.svg" width="100%" alt="AI Agents & Automation" /></a>
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/service-saas.svg" width="100%" alt="SaaS & Web Apps" /></a>
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/service-backend.svg" width="100%" alt="Backend & APIs" /></a>
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/service-design.svg" width="100%" alt="UI / UX Design" /></a>
 
-<!-- ──────────────────────────── 03 · FEATURED WORK ─────────────────────────── -->
+<img src="assets/workflow.svg" width="100%" alt="My workflow: Discover, Design, Build, Test, Launch, Grow" />
 
-<img src="assets/header-work.svg" width="100%" alt="03 / Featured work — Things I've shipped" />
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/hire-banner.svg" width="100%" alt="Got an idea? Let's ship it — start a project" /></a>
+
+<!-- ───────────────────────────── 03 · TECH STACK ───────────────────────────── -->
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-stack-light.svg" />
+  <img src="assets/header-stack.svg" width="100%" alt="03 / Tech stack — Tools I build worlds with" />
+</picture>
+
+<img src="assets/stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, Java, Dart, React, Next.js, Tailwind, Flutter, Node.js, Express, FastAPI, Docker, MongoDB, MySQL, Redis, Firebase, Hostinger, TensorFlow, PyTorch, OpenCV, Git, GitHub, VS Code, Postman, Figma, Notion" />
+
+<!-- ──────────────────────────── 04 · FEATURED WORK ─────────────────────────── -->
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-work-light.svg" />
+  <img src="assets/header-work.svg" width="100%" alt="04 / Featured work — Things I've shipped" />
+</picture>
 
 <!-- Auto-synced with my pinned repositories by .github/workflows/profile.yml -->
 <!-- PROJECTS:START -->
@@ -65,9 +92,12 @@
   <a href="https://github.com/Joylan9?tab=repositories"><b>Browse all repositories →</b></a>
 </p>
 
-<!-- ─────────────────────────── 04 · GITHUB UNIVERSE ────────────────────────── -->
+<!-- ─────────────────────────── 05 · GITHUB UNIVERSE ────────────────────────── -->
 
-<img src="assets/header-stats.svg" width="100%" alt="04 / GitHub universe — Numbers that never sleep" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-stats-light.svg" />
+  <img src="assets/header-stats.svg" width="100%" alt="05 / GitHub universe — Numbers that never sleep" />
+</picture>
 
 <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/overview.svg" width="100%" alt="GitHub contribution overview: yearly total, streaks, pull requests and weekly activity" />
 
@@ -81,17 +111,25 @@
   <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
 </picture>
 
-<!-- ──────────────────────────── 05 · ACHIEVEMENTS ──────────────────────────── -->
+<!-- ──────────────────────────── 06 · ACHIEVEMENTS ──────────────────────────── -->
 
-<img src="assets/header-badges.svg" width="100%" alt="05 / Achievements — Badges & milestones" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-badges-light.svg" />
+  <img src="assets/header-badges.svg" width="100%" alt="06 / Achievements — Badges & milestones" />
+</picture>
 
 <p align="center">
   <a href="https://holopin.io/@joylan9"><img src="https://holopin.me/joylan9" width="100%" alt="@joylan9's Holopin board" /></a>
 </p>
 
-<!-- ────────────────────────────── 06 · CONNECT ─────────────────────────────── -->
+<!-- ────────────────────────────── 07 · CONNECT ─────────────────────────────── -->
 
-<img src="assets/header-connect.svg" width="100%" alt="06 / Connect — Let's build something iconic" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-connect-light.svg" />
+  <img src="assets/header-connect.svg" width="100%" alt="07 / Connect — Let's build something iconic" />
+</picture>
+
+<a href="mailto:joylan928@gmail.com?subject=Project%20inquiry"><img src="assets/terminal.svg" width="100%" alt="npx hire-joylan — idea to production" /></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joylan-dsouza-31b056263"><img src="assets/social-linkedin.svg" width="150" alt="LinkedIn" /></a>
