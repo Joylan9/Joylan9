@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="548" viewBox="0 0 1600 548" role="img" aria-label="TraceAI — Enterprise AI agent control plane. Plan → execute → synthesize agents with full run tracing, 5-gate guardrails, RBAC and Prometheus metrics." fill="none">
+<title>TraceAI — Enterprise AI agent control plane. Plan → execute → synthesize agents with full run tracing, 5-gate guardrails, RBAC and Prometheus metrics.</title>
+
+<defs>
+    <clipPath id="pClip"><rect width="1600" height="520" rx="28"/></clipPath>
+    <linearGradient id="pEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="520">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 260;360 800 260" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="pB" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <filter id="pG" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <radialGradient id="pGlow" cx=".85" cy=".2" r=".6"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".3"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .in{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .t{font:800 92px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-2.5px;fill:#F4F4F8}
+  .tg{font:600 38px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:url(#pB)}
+  .d{font:500 30px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#9095AD}
+  .chip{font:600 20px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#F4F4F8}
+  .meta{font:500 24px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD;white-space:pre}
+  .num{font:800 220px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:none;stroke:rgba(255,255,255,.06);stroke-width:2}
+  .nd{font:700 18px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:2px;fill:#F4F4F8}
+  .flow{animation:flow 1s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-18}}
+  .node{animation:node 2.7s ease-in-out infinite}
+  @keyframes node{0%,100%{opacity:.75}15%{opacity:1}}
+  .live{animation:live 2s ease-in-out infinite}
+  @keyframes live{50%{opacity:.35}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#pClip)">
+  <rect width="1600" height="520" rx="28" fill="#0C0E1A"/>
+  <rect width="1600" height="520" fill="url(#pGlow)"/>
+  
+  <g class="in">
+    <text x="80" y="84" class="k">★ PINNED 01</text>
+    <text x="76" y="190" class="t">TraceAI</text>
+    <text x="80" y="246" class="tg">Enterprise AI agent control plane</text>
+    <text x="80" y="302" class="d">Plan → execute → synthesize agents with full run tracing,</text><text x="80" y="344" class="d">5-gate guardrails, RBAC and Prometheus metrics.</text>
+  </g>
+  <g class="in" style="animation-delay:.25s"><rect x="80" y="416" width="130" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="145" y="447" text-anchor="middle" class="chip">Python</text><rect x="222" y="416" width="145" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="294.5" y="447" text-anchor="middle" class="chip">FastAPI</text><rect x="379" y="416" width="160" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="459" y="447" text-anchor="middle" class="chip">React 19</text><rect x="551" y="416" width="145" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="623.5" y="447" text-anchor="middle" class="chip">MongoDB</text><rect x="708" y="416" width="115" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="765.5" y="447" text-anchor="middle" class="chip">Redis</text><rect x="835" y="416" width="130" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="900" y="447" text-anchor="middle" class="chip">Docker</text></g>
+  <text x="1520" y="84" text-anchor="end" class="meta"><tspan fill="#3178C6">●</tspan> TypeScript   ⑂ 1   ↻ 2mo ago</text>
+  
+  <g transform="translate(940 170)">
+    <path d="M95 72 V160 H505 V72" stroke="#8B5CF6" stroke-opacity=".6" stroke-width="2" stroke-dasharray="4 6" class="flow"/>
+    <path d="M190 36 H205" stroke="#9095AD" stroke-width="2" stroke-dasharray="4 5" class="flow"/><path d="M395 36 H410" stroke="#9095AD" stroke-width="2" stroke-dasharray="4 5" class="flow"/>
+    <circle r="7" fill="#22D3EE" filter="url(#pG)"><animateMotion dur="3.6s" repeatCount="indefinite" path="M95 36 H505"/></circle>
+    <g class="node" style="animation-delay:0s"><rect x="0" y="0" width="190" height="72" rx="18" fill="#111427" stroke="url(#pB)" stroke-width="2"/><text x="95" y="44" text-anchor="middle" class="nd">PLAN</text></g><g class="node" style="animation-delay:0.9s"><rect x="205" y="0" width="190" height="72" rx="18" fill="#111427" stroke="url(#pB)" stroke-width="2"/><text x="300" y="44" text-anchor="middle" class="nd">EXECUTE</text></g><g class="node" style="animation-delay:1.8s"><rect x="410" y="0" width="190" height="72" rx="18" fill="#111427" stroke="url(#pB)" stroke-width="2"/><text x="505" y="44" text-anchor="middle" class="nd">SYNTHESIZE</text></g>
+    <rect x="200" y="136" width="200" height="50" rx="25" fill="#06070D" stroke="#8B5CF6" stroke-opacity=".7"/>
+    <text x="300" y="168" text-anchor="middle" class="nd" fill="#8B5CF6">◉ TRACE</text>
+  </g>
+</g>
+<rect x="1" y="1" width="1598" height="518" rx="27" fill="none" stroke="url(#pEdge)" stroke-width="2"/>
+</svg>

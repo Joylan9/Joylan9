@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-label="Top languages: TypeScript 33.3%, JavaScript 26.4%, Python 20.3%, CSS 9.0%, Dart 8.3%, HTML 2.7%" fill="none">
+<title>Top languages: TypeScript 33.3%, JavaScript 26.4%, Python 20.3%, CSS 9.0%, Dart 8.3%, HTML 2.7%</title>
+
+<defs>
+    <clipPath id="lClip"><rect width="1600" height="560" rx="28"/></clipPath>
+    <linearGradient id="lEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="560">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 280;360 800 280" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="lB" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient></defs>
+<style>
+  @keyframes s0{from{stroke-dasharray:0 100}to{stroke-dasharray:32.74 67.26}}
+  @keyframes s1{from{stroke-dasharray:0 100}to{stroke-dasharray:25.84 74.16}}
+  @keyframes s2{from{stroke-dasharray:0 100}to{stroke-dasharray:19.67 80.33}}
+  @keyframes s3{from{stroke-dasharray:0 100}to{stroke-dasharray:8.43 91.57}}
+  @keyframes s4{from{stroke-dasharray:0 100}to{stroke-dasharray:7.66 92.34}}
+  @keyframes s5{from{stroke-dasharray:0 100}to{stroke-dasharray:2.06 97.94}}
+  .in{opacity:0;animation:in .7s cubic-bezier(.2,.8,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateX(16px)}to{opacity:1;transform:none}}
+  .bar{transform-box:fill-box;transform-origin:left;animation:grow 1.1s cubic-bezier(.6,0,.2,1) both}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .ln{font:600 30px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#F4F4F8}
+  .lp{font:600 26px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD}
+  .c1{font:800 64px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#F4F4F8;letter-spacing:-2px}
+  .c2{font:600 18px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:3px;fill:#9095AD}
+  .spin{transform-origin:300px 290px;animation:spin 30s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#lClip)">
+  <rect width="1600" height="560" rx="28" fill="#0C0E1A"/>
+  <text x="620" y="66" class="k">LANGUAGES · WEIGHTED BY REPO</text>
+  <circle cx="300" cy="290" r="170" stroke="rgba(255,255,255,.05)" stroke-width="46"/>
+  <circle cx="300" cy="290" r="170" pathLength="100" stroke="#3178C6" stroke-width="46" stroke-dashoffset="0.00" style="animation:s0 1.2s 0.30s cubic-bezier(.6,0,.2,1) both" transform="rotate(-90 300 290)"/><circle cx="300" cy="290" r="170" pathLength="100" stroke="#F1E05A" stroke-width="46" stroke-dashoffset="-33.34" style="animation:s1 1.2s 0.42s cubic-bezier(.6,0,.2,1) both" transform="rotate(-90 300 290)"/><circle cx="300" cy="290" r="170" pathLength="100" stroke="#3572A5" stroke-width="46" stroke-dashoffset="-59.78" style="animation:s2 1.2s 0.54s cubic-bezier(.6,0,.2,1) both" transform="rotate(-90 300 290)"/><circle cx="300" cy="290" r="170" pathLength="100" stroke="#663399" stroke-width="46" stroke-dashoffset="-80.05" style="animation:s3 1.2s 0.66s cubic-bezier(.6,0,.2,1) both" transform="rotate(-90 300 290)"/><circle cx="300" cy="290" r="170" pathLength="100" stroke="#00B4AB" stroke-width="46" stroke-dashoffset="-89.08" style="animation:s4 1.2s 0.78s cubic-bezier(.6,0,.2,1) both" transform="rotate(-90 300 290)"/><circle cx="300" cy="290" r="170" pathLength="100" stroke="#E34C26" stroke-width="46" stroke-dashoffset="-97.34" style="animation:s5 1.2s 0.90s cubic-bezier(.6,0,.2,1) both" transform="rotate(-90 300 290)"/>
+  <circle cx="300" cy="290" r="214" stroke="url(#lB)" stroke-width="2" stroke-dasharray="2 12" class="spin" opacity=".6"/>
+  <text x="300" y="300" text-anchor="middle" class="c1">6</text>
+  <text x="300" y="336" text-anchor="middle" class="c2">LANGUAGES</text>
+  <g class="in" style="animation-delay:0.40s">
+      <circle cx="629" cy="121" r="9" fill="#3178C6"/>
+      <text x="652" y="130" class="ln">TypeScript</text>
+      <text x="1000" y="130" text-anchor="end" class="lp">33.3%</text>
+      <rect x="620" y="148" width="380" height="8" rx="4" fill="rgba(255,255,255,.06)"/>
+      <rect x="620" y="148" width="380.0" height="8" rx="4" fill="#3178C6" class="bar" style="animation-delay:0.60s"/>
+    </g><g class="in" style="animation-delay:0.48s">
+      <circle cx="629" cy="221" r="9" fill="#F1E05A"/>
+      <text x="652" y="230" class="ln">JavaScript</text>
+      <text x="1000" y="230" text-anchor="end" class="lp">26.4%</text>
+      <rect x="620" y="248" width="380" height="8" rx="4" fill="rgba(255,255,255,.06)"/>
+      <rect x="620" y="248" width="301.4" height="8" rx="4" fill="#F1E05A" class="bar" style="animation-delay:0.68s"/>
+    </g><g class="in" style="animation-delay:0.56s">
+      <circle cx="629" cy="321" r="9" fill="#3572A5"/>
+      <text x="652" y="330" class="ln">Python</text>
+      <text x="1000" y="330" text-anchor="end" class="lp">20.3%</text>
+      <rect x="620" y="348" width="380" height="8" rx="4" fill="rgba(255,255,255,.06)"/>
+      <rect x="620" y="348" width="231.0" height="8" rx="4" fill="#3572A5" class="bar" style="animation-delay:0.76s"/>
+    </g><g class="in" style="animation-delay:0.64s">
+      <circle cx="1099" cy="121" r="9" fill="#663399"/>
+      <text x="1122" y="130" class="ln">CSS</text>
+      <text x="1470" y="130" text-anchor="end" class="lp">9.0%</text>
+      <rect x="1090" y="148" width="380" height="8" rx="4" fill="rgba(255,255,255,.06)"/>
+      <rect x="1090" y="148" width="102.9" height="8" rx="4" fill="#663399" class="bar" style="animation-delay:0.84s"/>
+    </g><g class="in" style="animation-delay:0.72s">
+      <circle cx="1099" cy="221" r="9" fill="#00B4AB"/>
+      <text x="1122" y="230" class="ln">Dart</text>
+      <text x="1470" y="230" text-anchor="end" class="lp">8.3%</text>
+      <rect x="1090" y="248" width="380" height="8" rx="4" fill="rgba(255,255,255,.06)"/>
+      <rect x="1090" y="248" width="94.1" height="8" rx="4" fill="#00B4AB" class="bar" style="animation-delay:0.92s"/>
+    </g><g class="in" style="animation-delay:0.80s">
+      <circle cx="1099" cy="321" r="9" fill="#E34C26"/>
+      <text x="1122" y="330" class="ln">HTML</text>
+      <text x="1470" y="330" text-anchor="end" class="lp">2.7%</text>
+      <rect x="1090" y="348" width="380" height="8" rx="4" fill="rgba(255,255,255,.06)"/>
+      <rect x="1090" y="348" width="30.3" height="8" rx="4" fill="#E34C26" class="bar" style="animation-delay:1.00s"/>
+    </g>
+</g>
+<rect x="1" y="1" width="1598" height="558" rx="27" fill="none" stroke="url(#lEdge)" stroke-width="2"/>
+</svg>

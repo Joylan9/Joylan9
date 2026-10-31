@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="660" viewBox="0 0 1600 660" role="img" aria-label="1764 contributions in the last year; current streak 2 days; longest streak 28 days" fill="none">
+<title>1764 contributions in the last year; current streak 2 days; longest streak 28 days</title>
+
+<defs>
+    <clipPath id="oClip"><rect width="1600" height="660" rx="28"/></clipPath>
+    <linearGradient id="oEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="660">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 330;360 800 330" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="oB" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="oArea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="oLine" gradientUnits="userSpaceOnUse" x1="60" x2="1540" y1="0" y2="0"><stop offset="0" stop-color="#F75C7E"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <radialGradient id="oGlow" cx=".2" cy=".3" r=".5"><stop offset="0" stop-color="#F75C7E" stop-opacity=".22"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+  <filter id="oG" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+<style>
+  .in{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .big{font:800 150px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-6px;fill:url(#oB)}
+  .sub{font:500 28px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#9095AD}
+  .tl{font:600 18px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:3px;fill:#9095AD}
+  .tv{font:800 54px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-1.5px;fill:#F4F4F8}
+  .ts{font:500 20px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#5A5F7A}
+  .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s .6s cubic-bezier(.6,0,.2,1) forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .area{opacity:0;animation:fadein 1.2s 1.6s forwards}
+  @keyframes fadein{to{opacity:1}}
+  .ping{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out infinite}
+  @keyframes ping{from{transform:scale(1);opacity:.9}to{transform:scale(4);opacity:0}}
+  .ax{font:500 18px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#5A5F7A}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#oClip)">
+  <rect width="1600" height="660" rx="28" fill="#0C0E1A"/>
+  <rect width="1600" height="660" fill="url(#oGlow)"/>
+  <g class="in">
+    <text x="60" y="96" class="k">CONTRIBUTIONS · LAST 12 MONTHS</text>
+    <text x="52" y="248" class="big">1,764</text>
+    <text x="60" y="304" class="sub">Best day <tspan fill="#F4F4F8" font-weight="700">42</tspan>  ·  Followers <tspan fill="#F4F4F8" font-weight="700">12</tspan>  ·  Forks <tspan fill="#F4F4F8" font-weight="700">2</tspan></text>
+  </g>
+  <g class="in" style="animation-delay:0.25s">
+      <rect x="680" y="56" width="270" height="158" rx="20" fill="#111427" stroke="rgba(255,255,255,.07)"/>
+      <rect x="680" y="80" width="4" height="40" rx="2" fill="#F75C7E"/>
+      <path d="M12 2c1 4 6 6 6 12a6 6 0 0 1-12 0c0-3 2-5 3-6 0 2 1 3 2 3 0-4 0-6 1-9z" transform="translate(900 78) scale(1.15)" stroke="#F75C7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+      <text x="706" y="116" class="tl">CURRENT STREAK</text>
+      <text x="704" y="174" class="tv">2</text>
+      <text x="706" y="200" class="ts">days</text>
+    </g><g class="in" style="animation-delay:0.33s">
+      <rect x="972" y="56" width="270" height="158" rx="20" fill="#111427" stroke="rgba(255,255,255,.07)"/>
+      <rect x="972" y="80" width="4" height="40" rx="2" fill="#FBBF24"/>
+      <path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0zM7 6H4a3 3 0 0 0 3 4M17 6h3a3 3 0 0 1-3 4" transform="translate(1192 78) scale(1.15)" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+      <text x="998" y="116" class="tl">LONGEST STREAK</text>
+      <text x="996" y="174" class="tv">28</text>
+      <text x="998" y="200" class="ts">days</text>
+    </g><g class="in" style="animation-delay:0.41s">
+      <rect x="1264" y="56" width="270" height="158" rx="20" fill="#111427" stroke="rgba(255,255,255,.07)"/>
+      <rect x="1264" y="80" width="4" height="40" rx="2" fill="#8B5CF6"/>
+      <path d="M13 2 4 14h7l-1 8 9-12h-7z" transform="translate(1484 78) scale(1.15)" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+      <text x="1290" y="116" class="tl">ALL-TIME</text>
+      <text x="1288" y="174" class="tv">1,985</text>
+      <text x="1290" y="200" class="ts">since 2022</text>
+    </g><g class="in" style="animation-delay:0.49s">
+      <rect x="680" y="236" width="270" height="158" rx="20" fill="#111427" stroke="rgba(255,255,255,.07)"/>
+      <rect x="680" y="260" width="4" height="40" rx="2" fill="#22D3EE"/>
+      <path d="M6 3v12M6 15a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM6 3a3 3 0 1 0 0 6M18 21a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM18 15V8a3 3 0 0 0-3-3h-4m2-2-2 2 2 2" transform="translate(900 258) scale(1.15)" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+      <text x="706" y="296" class="tl">PULL REQUESTS</text>
+      <text x="704" y="354" class="tv">6</text>
+      <text x="706" y="380" class="ts">opened</text>
+    </g><g class="in" style="animation-delay:0.57s">
+      <rect x="972" y="236" width="270" height="158" rx="20" fill="#111427" stroke="rgba(255,255,255,.07)"/>
+      <rect x="972" y="260" width="4" height="40" rx="2" fill="#34D399"/>
+      <path d="M4 5h16v16H4zM4 10h16M9 3v4M15 3v4" transform="translate(1192 258) scale(1.15)" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+      <text x="998" y="296" class="tl">ACTIVE DAYS</text>
+      <text x="996" y="354" class="tv">269</text>
+      <text x="998" y="380" class="ts">last 12 months</text>
+    </g><g class="in" style="animation-delay:0.65s">
+      <rect x="1264" y="236" width="270" height="158" rx="20" fill="#111427" stroke="rgba(255,255,255,.07)"/>
+      <rect x="1264" y="260" width="4" height="40" rx="2" fill="#F75C7E"/>
+      <path d="M4 19V5a2 2 0 0 1 2-2h13v15H6a2 2 0 0 0-2 2 2 2 0 0 0 2 2h13M8 7h7" transform="translate(1484 258) scale(1.15)" stroke="#F75C7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+      <text x="1290" y="296" class="tl">REPOSITORIES</text>
+      <text x="1288" y="354" class="tv">15</text>
+      <text x="1290" y="380" class="ts">public &amp; original</text>
+    </g>
+  <line x1="60" y1="600" x2="1540" y2="600" stroke="rgba(255,255,255,.08)" stroke-width="2"/>
+  <path d="M60.0 571.6 C74.2 571.6 74.2 440.0 88.5 440.0 C102.7 440.0 102.7 583.2 116.9 583.2 C131.2 583.2 131.2 587.4 145.4 587.4 C159.6 587.4 159.6 584.2 173.8 584.2 C188.1 584.2 188.1 543.2 202.3 543.2 C216.5 543.2 216.5 566.3 230.8 566.3 C245.0 566.3 245.0 465.3 259.2 465.3 C273.5 465.3 273.5 546.3 287.7 546.3 C301.9 546.3 301.9 585.3 316.2 585.3 C330.4 585.3 330.4 590.5 344.6 590.5 C358.8 590.5 358.8 596.8 373.1 596.8 C387.3 596.8 387.3 584.2 401.5 584.2 C415.8 584.2 415.8 557.9 430.0 557.9 C444.2 557.9 444.2 585.3 458.5 585.3 C472.7 585.3 472.7 573.7 486.9 573.7 C501.2 573.7 501.2 501.1 515.4 501.1 C529.6 501.1 529.6 572.6 543.8 572.6 C558.1 572.6 558.1 567.4 572.3 567.4 C586.5 567.4 586.5 581.1 600.8 581.1 C615.0 581.1 615.0 558.9 629.2 558.9 C643.5 558.9 643.5 565.3 657.7 565.3 C671.9 565.3 671.9 532.6 686.2 532.6 C700.4 532.6 700.4 503.2 714.6 503.2 C728.8 503.2 728.8 497.9 743.1 497.9 C757.3 497.9 757.3 540.0 771.5 540.0 C785.8 540.0 785.8 549.5 800.0 549.5 C814.2 549.5 814.2 580.0 828.5 580.0 C842.7 580.0 842.7 541.1 856.9 541.1 C871.2 541.1 871.2 566.3 885.4 566.3 C899.6 566.3 899.6 585.3 913.8 585.3 C928.1 585.3 928.1 580.0 942.3 580.0 C956.5 580.0 956.5 586.3 970.8 586.3 C985.0 586.3 985.0 591.6 999.2 591.6 C1013.5 591.6 1013.5 592.6 1027.7 592.6 C1041.9 592.6 1041.9 576.8 1056.2 576.8 C1070.4 576.8 1070.4 589.5 1084.6 589.5 C1098.8 589.5 1098.8 592.6 1113.1 592.6 C1127.3 592.6 1127.3 589.5 1141.5 589.5 C1155.8 589.5 1155.8 567.4 1170.0 567.4 C1184.2 567.4 1184.2 581.1 1198.5 581.1 C1212.7 581.1 1212.7 594.7 1226.9 594.7 C1241.2 594.7 1241.2 593.7 1255.4 593.7 C1269.6 593.7 1269.6 598.9 1283.8 598.9 C1298.1 598.9 1298.1 598.9 1312.3 598.9 C1326.5 598.9 1326.5 600.0 1340.8 600.0 C1355.0 600.0 1355.0 600.0 1369.2 600.0 C1383.5 600.0 1383.5 600.0 1397.7 600.0 C1411.9 600.0 1411.9 592.6 1426.2 592.6 C1440.4 592.6 1440.4 531.6 1454.6 531.6 C1468.8 531.6 1468.8 513.7 1483.1 513.7 C1497.3 513.7 1497.3 491.6 1511.5 491.6 C1525.8 491.6 1525.8 576.8 1540.0 576.8 L1540 600 L60 600 Z" fill="url(#oArea)" class="area"/>
+  <path d="M60.0 571.6 C74.2 571.6 74.2 440.0 88.5 440.0 C102.7 440.0 102.7 583.2 116.9 583.2 C131.2 583.2 131.2 587.4 145.4 587.4 C159.6 587.4 159.6 584.2 173.8 584.2 C188.1 584.2 188.1 543.2 202.3 543.2 C216.5 543.2 216.5 566.3 230.8 566.3 C245.0 566.3 245.0 465.3 259.2 465.3 C273.5 465.3 273.5 546.3 287.7 546.3 C301.9 546.3 301.9 585.3 316.2 585.3 C330.4 585.3 330.4 590.5 344.6 590.5 C358.8 590.5 358.8 596.8 373.1 596.8 C387.3 596.8 387.3 584.2 401.5 584.2 C415.8 584.2 415.8 557.9 430.0 557.9 C444.2 557.9 444.2 585.3 458.5 585.3 C472.7 585.3 472.7 573.7 486.9 573.7 C501.2 573.7 501.2 501.1 515.4 501.1 C529.6 501.1 529.6 572.6 543.8 572.6 C558.1 572.6 558.1 567.4 572.3 567.4 C586.5 567.4 586.5 581.1 600.8 581.1 C615.0 581.1 615.0 558.9 629.2 558.9 C643.5 558.9 643.5 565.3 657.7 565.3 C671.9 565.3 671.9 532.6 686.2 532.6 C700.4 532.6 700.4 503.2 714.6 503.2 C728.8 503.2 728.8 497.9 743.1 497.9 C757.3 497.9 757.3 540.0 771.5 540.0 C785.8 540.0 785.8 549.5 800.0 549.5 C814.2 549.5 814.2 580.0 828.5 580.0 C842.7 580.0 842.7 541.1 856.9 541.1 C871.2 541.1 871.2 566.3 885.4 566.3 C899.6 566.3 899.6 585.3 913.8 585.3 C928.1 585.3 928.1 580.0 942.3 580.0 C956.5 580.0 956.5 586.3 970.8 586.3 C985.0 586.3 985.0 591.6 999.2 591.6 C1013.5 591.6 1013.5 592.6 1027.7 592.6 C1041.9 592.6 1041.9 576.8 1056.2 576.8 C1070.4 576.8 1070.4 589.5 1084.6 589.5 C1098.8 589.5 1098.8 592.6 1113.1 592.6 C1127.3 592.6 1127.3 589.5 1141.5 589.5 C1155.8 589.5 1155.8 567.4 1170.0 567.4 C1184.2 567.4 1184.2 581.1 1198.5 581.1 C1212.7 581.1 1212.7 594.7 1226.9 594.7 C1241.2 594.7 1241.2 593.7 1255.4 593.7 C1269.6 593.7 1269.6 598.9 1283.8 598.9 C1298.1 598.9 1298.1 598.9 1312.3 598.9 C1326.5 598.9 1326.5 600.0 1340.8 600.0 C1355.0 600.0 1355.0 600.0 1369.2 600.0 C1383.5 600.0 1383.5 600.0 1397.7 600.0 C1411.9 600.0 1411.9 592.6 1426.2 592.6 C1440.4 592.6 1440.4 531.6 1454.6 531.6 C1468.8 531.6 1468.8 513.7 1483.1 513.7 C1497.3 513.7 1497.3 491.6 1511.5 491.6 C1525.8 491.6 1525.8 576.8 1540.0 576.8" pathLength="1" stroke="url(#oLine)" stroke-width="4" stroke-linecap="round" class="draw"/>
+  <circle cx="88.5" cy="440.0" r="7" fill="#fff" class="ping"/>
+  <circle cx="88.5" cy="440.0" r="7" fill="#fff"/>
+  <text x="60" y="634" class="ax">12 MONTHS AGO</text>
+  <text x="800" y="634" text-anchor="middle" class="ax">WEEKLY ACTIVITY · AUTO-UPDATED 31 OCT 2026</text>
+  <text x="1540" y="634" text-anchor="end" class="ax">THIS WEEK</text>
+</g>
+<rect x="1" y="1" width="1598" height="658" rx="27" fill="none" stroke="url(#oEdge)" stroke-width="2"/>
+</svg>
