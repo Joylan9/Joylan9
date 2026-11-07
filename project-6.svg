@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="368" viewBox="0 0 1600 368" role="img" aria-label="VectorShift Pipelines — Drag-and-drop AI pipeline builder. ReactFlow canvas with a reusable node abstraction, Zustand state and a FastAPI DAG validator." fill="none">
+<title>VectorShift Pipelines — Drag-and-drop AI pipeline builder. ReactFlow canvas with a reusable node abstraction, Zustand state and a FastAPI DAG validator.</title>
+
+<defs>
+    <clipPath id="pClip"><rect width="1600" height="340" rx="28"/></clipPath>
+    <linearGradient id="pEdge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="340">
+      <stop offset="0" stop-color="#F75C7E" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 800 170;360 800 170" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+  <linearGradient id="pB" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F75C7E"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <filter id="pG" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <radialGradient id="pGlow" cx=".95" cy=".2" r=".6"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".3"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .in{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+  .k{font:600 22px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:5px;fill:#9095AD}
+  .t{font:800 68px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;letter-spacing:-2.5px;fill:#F4F4F8}
+  .tg{font:600 32px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:url(#pB)}
+  .d{font:500 26px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:#9095AD}
+  .chip{font:600 20px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#F4F4F8}
+  .meta{font:500 24px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#9095AD;white-space:pre}
+  .num{font:800 220px 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'SF Pro Display',Inter,Roboto,'Helvetica Neue',Arial,sans-serif;fill:none;stroke:rgba(255,255,255,.06);stroke-width:2}
+  .nd{font:700 18px 'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:2px;fill:#F4F4F8}
+  .flow{animation:flow 1s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-18}}
+  .node{animation:node 2.7s ease-in-out infinite}
+  @keyframes node{0%,100%{opacity:.75}15%{opacity:1}}
+  .live{animation:live 2s ease-in-out infinite}
+  @keyframes live{50%{opacity:.35}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#pClip)">
+  <rect width="1600" height="340" rx="28" fill="#0C0E1A"/>
+  <rect width="1600" height="340" fill="url(#pGlow)"/>
+  <text x="1560" y="300" text-anchor="end" class="num">06</text>
+  <g class="in">
+    <text x="80" y="74" class="k">PROJECT 06</text>
+    <text x="76" y="150" class="t">VectorShift Pipelines</text>
+    <text x="80" y="198" class="tg">Drag-and-drop AI pipeline builder</text>
+    
+  </g>
+  <g class="in" style="animation-delay:.25s"><rect x="80" y="236" width="115" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="137.5" y="267" text-anchor="middle" class="chip">React</text><rect x="207" y="236" width="175" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="294.5" y="267" text-anchor="middle" class="chip">ReactFlow</text><rect x="394" y="236" width="145" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="466.5" y="267" text-anchor="middle" class="chip">Zustand</text><rect x="551" y="236" width="145" height="46" rx="23" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/><text x="623.5" y="267" text-anchor="middle" class="chip">FastAPI</text></g>
+  <text x="1520" y="74" text-anchor="end" class="meta"><tspan fill="#3572A5">●</tspan> Python   ↻ 8mo ago</text>
+  
+</g>
+<rect x="1" y="1" width="1598" height="338" rx="27" fill="none" stroke="url(#pEdge)" stroke-width="2"/>
+</svg>
