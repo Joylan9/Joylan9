@@ -71,28 +71,6 @@
 <a href="https://ishaliving.co.in/app/login"><img src="assets/showcase-isha.svg" width="100%" alt="ISHA Pro smart-home app — live screenshots" /></a>
 <a href="https://sovirtechnologies.in"><img src="assets/showcase-sovir.svg" width="100%" alt="SoVir Technologies website — live screenshots" /></a>
 
-<!-- Auto-synced with my pinned repositories by .github/workflows/profile.yml -->
-<!-- PROJECTS:START -->
-<a href="https://github.com/Joylan9/genai-agent-sprint">
-  <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/project-1.svg" width="100%" alt="TraceAI — Enterprise AI agent control plane" />
-</a>
-<a href="https://github.com/Joylan9/Portfolio">
-  <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/project-2.svg" width="100%" alt="3D Portfolio — Immersive scroll-driven WebGL experience" />
-</a>
-<a href="https://github.com/B-Vighnesh/AagriGgate">
-  <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/project-3.svg" width="100%" alt="AagriGgate — Direct farm-to-buyer trade and decision support platform" />
-</a>
-<a href="https://github.com/Joylan9/Plumber-booking-portal">
-  <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/project-4.svg" width="100%" alt="FlowMatch — On-demand plumber booking platform" />
-</a>
-<a href="https://github.com/Joylan9/VeriNews">
-  <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/project-5.svg" width="100%" alt="VeriNews — AI claim detection for news" />
-</a>
-<a href="https://github.com/Joylan9/VectorShift_Company">
-  <img src="https://raw.githubusercontent.com/Joylan9/Joylan9/output/project-6.svg" width="100%" alt="VectorShift Pipelines — Drag-and-drop AI pipeline builder" />
-</a>
-<!-- PROJECTS:END -->
-
 <p align="center">
   <a href="https://github.com/Joylan9?tab=repositories"><b>Browse all repositories →</b></a>
 </p>
