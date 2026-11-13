@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://portfolio-l3xs.vercel.app/"><img src="assets/cta-portfolio.svg" width="380" alt="Explore my portfolio" /></a>
+  <a href="https://portfolio-l3xs.vercel.app/"><img src="assets/cta-portfolio.svg" width="240" alt="Explore my portfolio" /></a>
 </p>
 
 <p align="center">
