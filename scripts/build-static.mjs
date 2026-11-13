@@ -2,6 +2,7 @@
 import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { buildServices } from "./build-services.mjs";
+import { buildShowcase } from "./build-showcase.mjs";
 import { C, SANS, MONO, ROOT, esc, rng, brandGradient, frame, svg, icon, glyph } from "./theme.mjs";
 
 const OUT = join(ROOT, "assets");
@@ -445,4 +446,4 @@ function divider() {
   write("divider.svg", svg(W, H, body, "divider"));
 }
 
-hero(); headers(); about(); stack(); socials(); cta(); footer(); divider(); buildServices();
+hero(); headers(); about(); stack(); socials(); cta(); footer(); divider(); buildServices(); buildShowcase();

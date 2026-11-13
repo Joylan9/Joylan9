@@ -66,6 +66,11 @@
   <img src="assets/header-work.svg" width="100%" alt="04 / Featured work — Things I've shipped" />
 </picture>
 
+<!-- Live sites: auto-sliding screenshots (rebuild with node scripts/build-static.mjs) -->
+<a href="https://portfolio-l3xs.vercel.app/"><img src="assets/showcase-portfolio.svg" width="100%" alt="3D Portfolio — live screenshots" /></a>
+<a href="https://ishaliving.co.in/app/login"><img src="assets/showcase-isha.svg" width="100%" alt="ISHA Pro smart-home app — live screenshots" /></a>
+<a href="https://sovirtechnologies.in"><img src="assets/showcase-sovir.svg" width="100%" alt="SoVir Technologies website — live screenshots" /></a>
+
 <!-- Auto-synced with my pinned repositories by .github/workflows/profile.yml -->
 <!-- PROJECTS:START -->
 <a href="https://github.com/Joylan9/genai-agent-sprint">
